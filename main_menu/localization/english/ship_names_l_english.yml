@@ -1,0 +1,291 @@
+﻿l_english:
+ ship_name_acheron: "อาเชรอน"
+ ship_name_achille: "อคิลลีส"
+ ship_name_achilles: "อคิลลีส"
+ ship_name_aconit: "อะโคนิต"
+ ship_name_adamant: "อะดาแมนต์"
+ ship_name_admirable: "ผู้น่าเลื่อมใส"
+ ship_name_advice: "คำปรึกษา"
+ ship_name_africain: "แอฟริกัน"
+ ship_name_africaine: "แอฟริกัน"
+ ship_name_aigle: "พญาอินทรี"
+ ship_name_alexandre: "อเล็กซานเดอร์"
+ ship_name_amarante: "อะมารันต์"
+ ship_name_amazone: "อะเมซอน"
+ ship_name_ambitieux: "ผู้ทะเยอทะยาน"
+ ship_name_amphitrite: "แอมฟิไทรต์"
+ ship_name_andromaque: "แอนโดรมาคี"
+ ship_name_annibal: "แฮนนิบาล"
+ ship_name_antelope: "แอนเทโลป"
+ ship_name_apollon: "อพอลโล"
+ ship_name_aquilon: "อควิลอน"
+ ship_name_arabe: "อาหรับ"
+ ship_name_arethuse: "อะเรธูซา"
+ ship_name_argonaute: "อาร์โกนอต"
+ ship_name_ariane: "อะริแอนน์"
+ ship_name_armide: "อาร์มิด"
+ ship_name_arrogant: "ผู้โอหัง"
+ ship_name_arromanches: "อาร์โรมานเชส"
+ ship_name_artemis: "อาร์เทมิส"
+ ship_name_artemise: "อาร์เทมิส"
+ ship_name_assistance: "ความช่วยเหลือ"
+ ship_name_association: "สมาคม"
+ ship_name_assurance: "ความเชื่อมั่น"
+ ship_name_astree: "แอสทรี"
+ ship_name_astrolabe: "แอสโตรเลบ"
+ ship_name_atalante: "แอตาลันตา"
+ ship_name_atlas: "แอตลาส"
+ ship_name_audacieux: "ผู้กล้าหาญ"
+ ship_name_audacious: "ผู้กล้าหาญ"
+ ship_name_august: "ผู้สูงส่ง"
+ ship_name_auguste: "ออกัสตัส"
+ ship_name_bison: "ไบซัน"
+ ship_name_borda: "บอร์ดา"
+ ship_name_boudeuse: "บูเดิซ"
+ ship_name_bouvet: "บูเวต์"
+ ship_name_bull: "กระทิง"
+ ship_name_capricieuse: "ผู้โลเล"
+ ship_name_captain: "กัปตัน"
+ ship_name_casabianca: "คาซาเบียนกา"
+ ship_name_cassard: "คาสซาร์ด"
+ ship_name_cassiopee: "แคสสิโอเปีย"
+ ship_name_centurion: "เซ็นจูเรียน"
+ ship_name_chacal: "หมาจิ้งจอก"
+ ship_name_colossus: "โคโลสซัส"
+ ship_name_conqueror: "ผู้พิชิต"
+ ship_name_content: "ผู้พึงใจ"
+ ship_name_coronation: "ราชาภิเษก"
+ ship_name_crown: "เรือหลวง"
+ ship_name_dauntless: "ผู้ไม่หวั่นเกรง"
+ ship_name_defiance: "ผู้ท้าทาย"
+ ship_name_dragon: "มังกร"
+ ship_name_dreadnought: "เดรดนอต"
+ ship_name_duchess: "ดัชเชส"
+ ship_name_duke: "ดยุก"
+ ship_name_duperre: "ดูเปร์เร"
+ ship_name_dupleix: "ดูเพล็กซ์"
+ ship_name_duquesne: "ดูเค็น"
+ ship_name_durance: "ดูรานซ์"
+ ship_name_eagle: "อินทรี"
+ ship_name_eglantine: "เอกลันทีน"
+ ship_name_elan: "เอลัง"
+ ship_name_elephant: "คชสาร"
+ ship_name_epee: "กระบี่"
+ ship_name_espadon: "ดาบใหญ่"
+ ship_name_esterel: "เอสเทอเรล"
+ ship_name_etoile: "ดารา"
+ ship_name_excellent: "ผู้อย่างยอดเยี่ยม"
+ ship_name_expedition: "กองสำรวจ"
+ ship_name_experiment: "การทดลอง"
+ ship_name_fame: "ชื่อเสียง"
+ ship_name_firm: "ความมั่นคง"
+ ship_name_forbin: "ฟอร์บิน"
+ ship_name_fortitude: "ความอดทน"
+ ship_name_foudre: "สายฟ้า"
+ ship_name_fougueuse: "ผู้รุ่มร้อน"
+ ship_name_gapeau: "กาโป"
+ ship_name_garonne: "การอน"
+ ship_name_gazelle: "ละมั่ง"
+ ship_name_glaive: "ดาบศัสตรา"
+ ship_name_glorieuse: "ผู้อย่างรุ่งโรจน์"
+ ship_name_glory: "เกียรติโรจน์"
+ ship_name_goliath: "โกไลแอท"
+ ship_name_gracieuse: "ผู้อย่างสง่างาม"
+ ship_name_guepard: "เสือชีตาห์"
+ ship_name_hache: "ขวาน"
+ ship_name_hallebarde: "ง้าว"
+ ship_name_hannibal: "แฮนนิบาล"
+ ship_name_hero: "วีรบุรุษ"
+ ship_name_hope: "ความหวัง"
+ ship_name_horse: "อาชา"
+ ship_name_illustrious: "ผู้อย่างเลื่องลือ"
+ ship_name_impregnable: "ผู้ไร้พ่าย"
+ ship_name_indefatigable: "ผู้ไม่ย่อท้อ"
+ ship_name_indomptable: "ผู้ไม่อาจสยบ"
+ ship_name_inflexible: "ผู้ไม่ยอมก้มหัว"
+ ship_name_interceptor: "ผู้สกัดกั้น"
+ ship_name_intrepid: "ผู้กล้าหาญชาญชัย"
+ ship_name_invincible: "ผู้ไร้เทียมทาน"
+ ship_name_irresistible: "ผู้ไม่อาจต้านทาน"
+ ship_name_isis: "ไอซิส"
+ ship_name_jupiter: "จูปีเตอร์"
+ ship_name_kingfisher: "นกกระเต็น"
+ ship_name_laperouse: "ลาเปรูซ"
+ ship_name_leopard: "เสือดาว"
+ ship_name_leopard_fr: "เสือดาว"
+ ship_name_leviathan: "เลไวอะธัน"
+ ship_name_lion: "ราชสีห์"
+ ship_name_luberon: "ลูเบรอน"
+ ship_name_lynx: "แมวป่าลิงซ์"
+ ship_name_lyre: "พิณไลร์"
+ ship_name_magnificent: "ผู้อย่างตระการตา"
+ ship_name_majestic: "ผู้อย่างโอ่อ่า"
+ ship_name_marigold: "ดาวเรือง"
+ ship_name_marne: "มาร์น"
+ ship_name_mars: "มาร์ส"
+ ship_name_massue: "กระบอง"
+ ship_name_medusa: "เมดูซา"
+ ship_name_meduse: "เมดูซา"
+ ship_name_mercure: "เมอร์คิวรี"
+ ship_name_meuse: "เมิซ"
+ ship_name_minotaur: "มิโนทอร์"
+ ship_name_mistral: "มิสทราล"
+ ship_name_moderate: "ผู้สันโดษ"
+ ship_name_monarch: "เจ้าแผ่นดิน"
+ ship_name_monge: "มองช์"
+ ship_name_montcalm: "มงต์คาล์ม"
+ ship_name_moon: "จันทรา"
+ ship_name_moqueuse: "ผู้เยาะเย้ย"
+ ship_name_mutin: "ผู้ขบถ"
+ ship_name_neptune: "เนปจูน"
+ ship_name_nonsuch: "ผู้ไม่มีใครเหมือน"
+ ship_name_normand: "นอร์มันด์"
+ ship_name_oak: "โอ๊ก"
+ ship_name_ocean: "มหาสมุทร"
+ ship_name_orage: "พายุฝน"
+ ship_name_orion: "โอไรออน"
+ ship_name_ouragan: "พายุหมุน"
+ ship_name_panther: "เสือดำ"
+ ship_name_panthere: "เสือดำ"
+ ship_name_pegase: "เพกาซัส"
+ ship_name_perseverante: "ผู้บากบั่น"
+ ship_name_phoenix: "ฟีนิกซ์"
+ ship_name_pluton: "พลูโต"
+ ship_name_poseidon: "โพไซดอน"
+ ship_name_powerful: "ผู้ทรงอำนาจ"
+ ship_name_president: "ประธาน"
+ ship_name_primauguet: "พรีโมเกต์"
+ ship_name_princess: "เจ้าหญิง"
+ ship_name_prize: "รางวัล"
+ ship_name_prudent: "ผู้รอบคอบ"
+ ship_name_queen: "ราชินี"
+ ship_name_railleuse: "ผู้ล้อเลียน"
+ ship_name_rapiere: "ดาบเรเปียร์"
+ ship_name_reddition: "การยอมจำนน"
+ ship_name_redoutable: "ผู้น่าเกรงขาม"
+ ship_name_renown: "ชื่อเสียงโด่งดัง"
+ ship_name_repulse: "ผู้ขับไล่"
+ ship_name_reserve: "กองหนุน"
+ ship_name_resolution: "ปณิธาน"
+ ship_name_restoration: "การฟื้นฟู"
+ ship_name_revenge: "การแก้แค้น"
+ ship_name_rieuse: "ผู้รื่นเริง"
+ ship_name_royal: "หลวง"
+ ship_name_ruby: "ทับทิม"
+ ship_name_sabre: "ดาบทหารม้า"
+ ship_name_saturn: "ดาวเสาร์"
+ ship_name_sceptre: "คทา"
+ ship_name_serieuse: "ผู้เคร่งขรึม"
+ ship_name_sirocco: "สิร็อกโก"
+ ship_name_sovereign: "องค์อธิปัตย์"
+ ship_name_standard: "ธงไชยเฉลิมพล"
+ ship_name_stately: "ผู้อย่างภูมิฐาน"
+ ship_name_styx: "สติกซ์"
+ ship_name_superb: "ผู้อย่างเลิศเลอ"
+ ship_name_surcouf: "ซูร์คูฟ"
+ ship_name_surprise: "การจู่โจมฉับพลัน"
+ ship_name_swallow: "นกนางแอ่น"
+ ship_name_swan: "หงส์"
+ ship_name_swiftsure: "ผู้รวดเร็วและมั่นคง"
+ ship_name_tapageuse: "ผู้เอะอะ"
+ ship_name_temeraire: "ผู้บ้าบิ่น"
+ ship_name_tenace: "ผู้ทรหด"
+ ship_name_terrible: "ผู้น่าสะพรึงกลัว"
+ ship_name_terrible_fr: "ผู้น่าสะพรึงกลัว"
+ ship_name_thunderer: "ผู้บันดาลสายฟ้า"
+ ship_name_tiger: "พยัคฆ์"
+ ship_name_tigre: "พยัคฆ์"
+ ship_name_tonnant: "ผู้กึกก้อง"
+ ship_name_trememndous: "ผู้อย่างมหึมา"
+ ship_name_trident: "ตรีศูล"
+ ship_name_triomphant: "ผู้มีชัย"
+ ship_name_triton: "ไทรทัน"
+ ship_name_triumph: "ชัยชนะอันยิ่งใหญ่"
+ ship_name_trusty: "ผู้ซื่อสัตย์"
+ ship_name_unicorn: "ยูนิคอร์น"
+ ship_name_union: "สหภาพ"
+ ship_name_unity: "ความสามัคคี"
+ ship_name_valiant: "ผู้กล้าหาญ"
+ ship_name_vanguard: "กองหน้า"
+ ship_name_var: "วาร์"
+ ship_name_vauquelin: "โวเกอแล็ง"
+ ship_name_venerable: "ผู้น่าเคารพ"
+ ship_name_veteran: "ผู้เจนศึก"
+ ship_name_victor: "ผู้ชนะ"
+ ship_name_victorious: "ผู้มีชัยชนะ"
+ ship_name_victory: "ชัยชนะ"
+ ship_name_vigilant: "ผู้เฝ้าระวัง"
+ ship_name_vulcain: "วัลแคน"
+ ship_name_warrior: "นักรบ"
+ ship_name_warspite: "วอร์สไปท์"
+ ship_name_zealous: "ผู้กระตือรือร้น"
+
+ ship_name_anfarwol: "แอนฟาร์วอล" # Immortal
+ ship_name_ardderchog: "อาร์ดเดอร์ค็อก" # Excellent
+ ship_name_brwd: "บรูด" # Fierce
+ ship_name_brwdfrydig: "บรูดฟรีดิก" # Enthusiastic
+ ship_name_cadarn: "คาดาร์น" # Strong
+ ship_name_cain: "เคน" # Fair
+ ship_name_cawr: "คาวร์" # Giant
+ ship_name_cerddgar: "เคิร์ดการ์" # Melodious
+ ship_name_clyd: "คลิด" # Cozy
+ ship_name_cyfareddol: "คือฟาเรดดอล" # Exhilarating
+ ship_name_cymreig: "คัมเรก" # Welsh
+ ship_name_cywir: "คือวีร์" # Correct
+ ship_name_cywirdeb: "คือวีร์เด็บ" # Integrity
+ ship_name_dewr: "เดวร์" # Brave
+ ship_name_direidus: "ดิไรดัส" # Agile
+ ship_name_dirgel: "เดิร์กเกล" # Mysterious
+ ship_name_dirgelwch: "เดิร์กเกลุค" # Mystery
+ ship_name_eglurhaol: "เอกลูร์ฮาโอล" # Transparent
+ ship_name_eithriadol: "ไอธริอาดอล" # Exceptional
+ ship_name_euraid: "ยูไรด์" # Golden
+ ship_name_fflamgoch: "ฟลัมก็อค" # Red flame
+ ship_name_galwadwy: "กัลวาดวี" # Reliable
+ ship_name_garw: "การู" # Rough
+ ship_name_gloyw: "กลอยู" # Bright
+ ship_name_gorfoledd: "กอร์ฟอเลดด์" # Joyful
+ ship_name_gorlif: "กอร์ลิฟ" # Majestic
+ ship_name_gwawr: "กวอร์" # Dawn
+ ship_name_gwyntog: "กวินต็อก" # Windy
+ ship_name_haerllug: "ไฮร์ลัก" # Majestic
+ ship_name_heddwen: "เฮดด์เวน" # White peace
+ ship_name_heddychlon: "เฮดดัคลอน" # Peaceful
+ ship_name_helyg: "เฮลิก" # Willow
+ ship_name_hirfelyn: "ฮีร์เฟลิน" # Long fang
+ ship_name_hirionedd: "ฮีริโอเนดด์" # Truth
+ ship_name_hudolus: "ฮูโดลัส" # Enchanting
+ ship_name_hynod: "ฮีนอด" # Extraordinary
+ ship_name_iaithlawn: "ไอย์ธลอน" # Linguistic
+ ship_name_iraidd: "อิไรด์" # Furious
+ ship_name_jawdropping: "เซิฟร์ดานอล" # Jaw-dropping
+ ship_name_lleddf: "เลดด์ฟ" # Smooth
+ ship_name_llongyfarch: "ลอนกือฟาร์ค" # Congratulations
+ ship_name_lluddias: "ลัดดิอัส" # Stealthy
+ ship_name_llwyd: "ลุยด์" # Grey
+ ship_name_llyfn: "ลิฟน์" # Smooth
+ ship_name_llygadwyllt: "ลิกัดวิลต์" # Wild-eyed
+ ship_name_llygaid-wen: "ลิกายนด์-เวน" # White-eyed
+ ship_name_lysieuol: "ลิซิเยออล" # Herbaceous
+ ship_name_mawreddog: "เมาเรดด็อก" # Majestic
+ ship_name_medrus: "เมดรัส" # Skilled
+ ship_name_melyngoch: "เมลินก็อค" # Yellow-red
+ ship_name_mewnfwyafn: "เมินฟูยาฟน์" # Deepest
+ ship_name_morol: "มอรอล" # Ocean
+ ship_name_nawddgar: "เนอดด์การ์" # Protective
+ ship_name_noddfa: "นอดด์ฟา" # Sanctuary
+ ship_name_oerfel: "เออร์เฟล" # Frosty
+ ship_name_olau: "โอไล" # Light
+ ship_name_parhadol: "พาร์ฮาดอล" # Enduring
+ ship_name_poblogaidd: "พอโบลไกด์" # Popular
+ ship_name_rhamantus: "รามันตุส" # Romantic
+ ship_name_sefyllfa: "เซฟิลวา" # Position
+ ship_name_seren: "เซเรน" # Star
+ ship_name_talgarth: "ทัลการ์ธ" # High-fortress
+ ship_name_taranau: "ทารานาอี" # Thunderous
+ ship_name_tosturiol: "ทอสตาริโอล" # Disruptive
+ ship_name_uchelgeisiol: "อูเคลเกอิสิโอล" # Ambitious
+ ship_name_unben: "อันเบน" # Leader
+ ship_name_wawddeg: "วอดเดก" # Boisterous
+ ship_name_ymylchgrawn: "เออมิลค์กราวน์" # Periphery
+ ship_name_ynfydgar: "เอินฟิดการ์" # Magnificent

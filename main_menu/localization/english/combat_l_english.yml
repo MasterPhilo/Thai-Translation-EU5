@@ -1,0 +1,36 @@
+﻿l_english:
+ #
+ BECOME_MERCENARIES_FOR_COUNTRY_EFFECT: "กองกำลัง $NUM$ นายจะถูกซื้อตัวเข้าร่วมกับ $COUNTRY$ ในฐานะ [mercenaries|e] โดยมีค่าใช้จ่าย $COST$"
+ THIRD_BECOME_MERCENARIES_FOR_COUNTRY_EFFECT: "กองกำลัง $NUM$ นายจะถูกซื้อตัวเข้าร่วมกับ $COUNTRY$ ในฐานะ [mercenaries|e] โดยมีค่าใช้จ่าย $COST$"
+ PAST_BECOME_MERCENARIES_FOR_COUNTRY_EFFECT: "กองกำลัง $NUM$ นายถูกซื้อตัวเข้าร่วมกับ $COUNTRY$ ในฐานะ [mercenaries|e] โดยมีค่าใช้จ่าย $COST$ แล้ว"
+ PAST_THIRD_BECOME_MERCENARIES_FOR_COUNTRY_EFFECT: "กองกำลัง $NUM$ นายถูกซื้อตัวเข้าร่วมกับ $COUNTRY$ ในฐานะ [mercenaries|e] โดยมีค่าใช้จ่าย $COST$ แล้ว"
+ #
+ RANSOM_PRISONER_EFFECT: "กองกำลัง $NUM$ นายจะถูกส่งคืนแก่เจ้าของ ด้วยการเรียกค่าไถ่เป็นจำนวน $COST$"
+ THIRD_RANSOM_PRISONER_EFFECT: "กองกำลัง $NUM$ นายจะถูกส่งคืนแก่เจ้าของ ด้วยการเรียกค่าไถ่เป็นจำนวน $COST$"
+ PAST_RANSOM_PRISONER_EFFECT: "กองกำลัง $NUM$ นายถูกส่งคืนแก่เจ้าของ ด้วยการเรียกค่าไถ่เป็นจำนวน $COST$ แล้ว"
+ PAST_THIRD_RANSOM_PRISONER_EFFECT: "กองกำลัง $NUM$ นายถูกส่งคืนแก่เจ้าของ ด้วยการเรียกค่าไถ่เป็นจำนวน $COST$ แล้ว"
+ #
+ REQUEST_RANSOM_PRISONER_EFFECT: "จะมีการส่งคำร้องเพื่อเรียกค่าไถ่กองกำลัง $NUM$ นายคืนสู่เจ้าของ"
+ THIRD_REQUEST_RANSOM_PRISONER_EFFECT: "จะมีการส่งคำร้องเพื่อเรียกค่าไถ่กองกำลัง $NUM$ นายคืนสู่เจ้าของ"
+ PAST_REQUEST_RANSOM_PRISONER_EFFECT: "ส่งคำร้องเพื่อเรียกค่าไถ่กองกำลัง $NUM$ นายคืนสู่เจ้าของแล้ว"
+ PAST_THIRD_REQUEST_RANSOM_PRISONER_EFFECT: "ส่งคำร้องเพื่อเรียกค่าไถ่กองกำลัง $NUM$ นายคืนสู่เจ้าของแล้ว"
+ #
+ MOVE_PRISONER_EFFECT: "เชลยศึกจะเคลื่อนย้ายไปยัง $LOCATION$ และจะถูกคุมขังไว้ที่นั่นจนกว่าจะมีประกาศเพิ่มเติม"
+ THIRD_MOVE_PRISONER_EFFECT: "เชลยศึกจะเคลื่อนย้ายไปยัง $LOCATION$ และจะถูกคุมขังไว้ที่นั่นจนกว่าจะมีประกาศเพิ่มเติม"
+ PAST_MOVE_PRISONER_EFFECT: "เชลยศึกถูกเคลื่อนย้ายไปยัง $LOCATION$ แล้ว"
+ PAST_THIRD_MOVE_PRISONER_EFFECT: "เชลยศึกถูกเคลื่อนย้ายไปยัง $LOCATION$ แล้ว"
+ #
+ ROUT_ALL_UNITS_EFFECT: "กองกำลังข้าศึกทั้งหมดจะถูกประหารชีวิต"
+ THIRD_ROUT_ALL_UNITS_EFFECT: "กองกำลังข้าศึกทั้งหมดจะถูกประหารชีวิต"
+ PAST_ROUT_ALL_UNITS_EFFECT: "กองกำลังข้าศึกทั้งหมดถูกประหารชีวิตแล้ว"
+ PAST_THIRD_ROUT_ALL_UNITS_EFFECT: "กองกำลังข้าศึกทั้งหมดถูกประหารชีวิตแล้ว"
+ #
+ SELL_PRISONERS_INTO_SLAVERY_EFFECT: "กองกำลังข้าศึกทั้งหมดจะถูกขายเป็นทาส"
+ THIRD_SELL_PRISONERS_INTO_SLAVERY_EFFECT: "กองกำลังข้าศึกทั้งหมดจะถูกขายเป็นทาส"
+ PAST_SELL_PRISONERS_INTO_SLAVERY_EFFECT: "กองกำลังข้าศึกทั้งหมดถูกขายเป็นทาสแล้ว"
+ PAST_THIRD_SELL_PRISONERS_INTO_SLAVERY_EFFECT: "กองกำลังข้าศึกทั้งหมดถูกขายเป็นทาสแล้ว"
+ 
+ army_losses_in_war: "ความสูญเสียของทัพบกใน [war|e]"
+ enemy_army_losses_in_war: "ความสูญเสียของทัพบกข้าศึกใน [war|e]"
+ losses_to_disease: "ความสูญเสียจาก [disease|e]"
+ 

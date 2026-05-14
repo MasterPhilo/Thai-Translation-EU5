@@ -1,0 +1,159 @@
+﻿l_english:
+ #Continents
+ africa: "แอฟริกา"
+ america: "อเมริกา"
+ asia: "เอเชีย"
+ europe: "ยุโรป"
+ oceania: "โอเชียเนีย"
+ ocean_continent: "มหาสมุทรของโลก"
+
+ #Subcontinents
+  #Africa
+ central_africa: "แอฟริกากลาง"
+ east_africa: "แอฟริกาตะวันออก"
+ north_africa: "แอฟริกาเหนือ"
+ southern_africa: "แอฟริกาตอนใต้"
+ west_africa: "แอฟริกาตะวันตก"
+ central_africa_region: "แอฟริกากลาง"
+  #America
+ north_america: "อเมริกาเหนือ"
+ south_america: "อเมริกาใต้"
+  #Asia
+ central_asia: "เอเชียกลาง"
+ china: "จีน"
+ east_asia: "เอเชียตะวันออก"
+ middle_east: "ตะวันออกกลาง"
+ north_asia: "เอเชียเหนือ"
+ india: "อินเดีย"
+ south_asia: "เอเชียใต้"
+ hindustan_region: "ฮินดูสถาน"
+ south_east_asia: "เอเชียตะวันออกเฉียงใต้"
+  #Europe
+ eastern_europe: "ยุโรปตะวันออก"
+ western_europe: "ยุโรปตะวันตก"
+  #Oceania
+ pacific_islands: "หมู่เกาะแปซิฟิก"
+ australia: "ออสเตรเลีย"
+ polynesia_region: "โปลินีเซีย"
+ australasia: "ออสตราเลเซีย"
+  #Ocean Continent
+ ocean_sub_continent: "มหาสมุทร"
+ north_atlantic_ocean_sub_continent: "มหาสมุทรแอตแลนติกเหนือ"
+ south_atlantic_sub_continent: "มหาสมุทรแอตแลนติกใต้"
+ indian_ocean_sub_continent: "มหาสมุทรอินเดีย"
+ north_pacific_ocean_sub_continent: "มหาสมุทรแปซิฟิกเหนือ"
+ south_pacific_ocean_sub_continent: "มหาสมุทรแปซิฟิกใต้"
+ antarctic_ocean_sub_continent: "มหาสมุทรแอนตาร์กติก"
+ atlantic_ocean_continent: "มหาสมุทรแอตแลนติก"
+ indian_ocean_continent: "มหาสมุทรอินเดีย"
+ pacific_ocean_continent: "มหาสมุทรแปซิฟิก"
+ antarctic_ocean_continent: "มหาสมุทรแอนตาร์กติก"
+ north_atlantic_islands_region: "หมู่เกาะแอตแลนติกเหนือ"
+ macaronesia_region: "มาคาโรนีเซีย"
+ central_india_region: "อินเดียกลาง"
+
+#Regions
+  #Africa
+    #Central Africa
+ kongo_region: "คองโก"
+    #East Africa
+ great_lakes_region: "เกรตเลกส์"
+ ethiopia_region: "เอธิโอเปีย"
+ nubia_region: "นูเบีย"
+ somalia_region: "โซมาเลีย"
+ madagascar_region: "มาดากัสการ์"
+ swahili_coast_region: "ชายฝั่งสวาฮีลี"
+    #North Africa
+ egypt_region: "อียิปต์"
+ maghreb_region: "อัลมัฆริบ"
+    #South Africa
+ southern_africa_region: "แอฟริกาตอนใต้"
+ zimbabwe_region: "ซิมบับเว"
+ southern_africa_islands_region: "หมู่เกาะแอฟริกาตอนใต้"
+    #West Africa
+ sahel_region: "ซาเฮล" 
+ guinea_region: "กินี"
+  #America
+    #North America
+ canada_region: "แคนาดา"
+ east_coast_region: "ชายฝั่งตะวันออก"
+ great_plains_region: "เกรตเพลนส์"
+ caribbean_region: "แคริบเบียน"
+ central_america_region: "อเมริกากลาง"
+ mesoamerica_region: "เมโสอเมริกา"
+ aridoamerica_region: "อาริโดอเมริกา"
+ west_coast_region: "ชายฝั่งตะวันตก"
+ alaska_region: "อลาสก้า"
+    #South America
+ brazil_region: "บราซิล"
+ colombia_region: "โคลอมเบีย"
+ la_plata_region: "ลาพลาตา"
+ andes_region: "แอนดีส"
+ chaco_region: "ชาโก"
+  #Asia
+    #Central Asia
+ khorasan_region: "โฆรอซอน"
+    #East Asia
+ east_china_region: "จีนตะวันออก"
+ japan_region: "ญี่ปุ่น"
+ korea_region: "เกาหลี"
+ manchuria_region: "แมนจูเรีย"
+ mongolia_region: "มองโกเลีย"
+ north_china_region: "จีนตอนเหนือ"
+ south_china_region: "จีนตอนใต้"
+ tibet_region: "ทิเบต"
+ west_china_region: "จีนตะวันตก"
+ xinjiang_region: "ซินเจียง"
+    #Middle East
+ anatolia_region: "อนาโตเลีย"
+ arabia_region: "อะราเบีย"
+ crescent_region: "ดินแดนพระจันทร์เสี้ยว"
+ persia_region: "เปอร์เซีย"
+    #North Asia
+ east_siberia_region: "ไซบีเรียตะวันออก"
+ west_siberia_region: "ไซบีเรียตะวันตก"
+    #South Asia
+ bengal_region: "เบงกอล"
+ deccan_region: "เดคคาน"
+ western_india_region: "อินเดียตะวันตก"
+    #Southeast Asia
+ indochina_region: "อินโดจีน"
+ indonesia_region: "อินโดนีเซีย"
+  #Europe
+    #Eastern Europe
+ balkan_region: "บอลข่าน"
+ carpathia_region: "คาร์เพเทีย"
+ caucasus_region: "คอเคซัส"
+ poland: "โปแลนด์"
+ baltic_region: "บัลติก"
+ ruthenia_region: "รูเทเนีย"
+ russian_region: "รัสเซีย"
+ steppes_region: "ทุ่งหญ้าแล้งพอนติก"
+ ural_region: "ยูรัล"
+ 
+    #Western Europe
+ france_region: "ฝรั่งเศส"
+ great_britain_region: "บริเตน"
+ iberia_region: "ไอบีเรีย"
+ iberia_region_ADJ: "ไอบีเรีย"
+ ireland_region: "ไอร์แลนด์"
+ italy_region: "อิตาลี"
+ north_german_region: "เยอรมนีตอนเหนือ"
+ scandinavian_region: "สแกนดิเนเวีย"
+ south_german_region: "เยอรมนีตอนใต้"
+  #Oceania
+    #Australia
+ australia_region: "ออสเตรเลีย"
+    #Polynesia
+ new_zealand_region: "นิวซีแลนด์"
+ micronesia_region: "ไมโครนีเซีย"
+ melanesia_region: "เมลานีเซีย"
+  #Ocean Continent
+    #Ocean Subcontinent
+ ocean_region: "มหาสมุทร"
+ north_atlantic_ocean_region: "มหาสมุทรแอตแลนติกเหนือ"
+ south_atlantic_region: "มหาสมุทรแอตแลนติกใต้"
+ indian_ocean_region: "มหาสมุทรอินเดีย"
+ north_pacific_ocean_region: "มหาสมุทรแปซิฟิกเหนือ"
+ south_pacific_ocean_region: "มหาสมุทรแปซิฟิกใต้"
+ antarctic_ocean_region: "มหาสมุทรแอนตาร์กติก"

@@ -1,0 +1,3 @@
+﻿l_english:
+ PIRATES_NAME: "โจรสลัดแห่ง [AREA.GetNameWithNoTooltip]"
+ PRIVATEER_NAME: "กองเรือสลัดหลวง [PRIVATEER.GetOwner.GetAdjectiveWithNoTooltip]"

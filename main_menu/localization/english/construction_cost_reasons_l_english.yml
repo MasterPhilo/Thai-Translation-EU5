@@ -1,0 +1,26 @@
+﻿l_english:
+ academic_cheap_sponsorship: "การอุปถัมภ์ทางวิชาการ"
+ academic_expensive_sponsorship: "[ShowBuildingTypeName('university')] แห่งใหม่ที่โอ่อ่าตระการตา"
+
+ military_cheap_sponsorship: "การอุปถัมภ์ทางการทหาร"
+ military_expensive_sponsorship: "ระบบป้องกันที่ล้ำสมัย"
+
+ palace_cheap_sponsorship: "การสนับสนุนเงินทุนพระราชวัง"
+ palace_expensive_sponsorship: "สถาปนิกผู้มีค่าตัวสูง"
+
+ royal_sponsorship: "พระบรมราชูปถัมภ์"
+
+ nobles_cheap_sponsorship: "การสนับสนุนเงินทุนจาก [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]"
+ nobles_expensive_sponsorship: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')] ขัดขวางการก่อสร้าง"
+
+ clergy_cheap_sponsorship: "การสนับสนุนเงินทุนจาก [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('clergy_estate')]"
+ clergy_expensive_sponsorship: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('clergy_estate')] ขัดขวางการก่อสร้าง"
+
+ burghers_cheap_sponsorship: "การสนับสนุนเงินทุนจาก [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('burghers_estate')]"
+ burghers_expensive_sponsorship: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('burghers_estate')] ขัดขวางการก่อสร้าง"
+
+ peasants_cheap_sponsorship: "การสนับสนุนเงินทุนจาก [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('peasants_estate')]"
+ peasants_expensive_sponsorship: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('peasants_estate')] ขัดขวางการก่อสร้าง"
+
+ need_for_expensive_tools: "ความจำเป็นที่ต้องใช้เครื่องมือราคาแพง"
+ confederation_funding_key: "การสนับสนุนเงินทุนสมาพันธรัฐ"
