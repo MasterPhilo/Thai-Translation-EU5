@@ -1,0 +1,435 @@
+﻿l_english:
+ START_TUTORIAL_LESSON_EFFECT: "เริ่มบทเรียน"
+ START_TUTORIAL_LESSON_PAST_EFFECT: "เริ่มบทเรียนแล้ว"
+
+ tutorial_lesson_button_skip: "ข้ามบทเรียน"
+ tutorial_lesson_button_next: "ถัดไป"
+ tutorial_lesson_button_complete_basics: "ไปกันเลย!"
+ tutorial_lesson_button_continue: "ดำเนินการต่อ"
+ 
+ tutorial_lesson_button_read_later: "อ่านในภายหลัง"
+ tutorial_lesson_button_refuse: "หามิได้!"
+ tutorial_lesson_button_explain: "โปรดอธิบาย"
+ tutorial_lesson_button_excellent: "ยอดเยี่ยมยิ่งนัก"
+ tutorial_lesson_button_elaborate: "เล่าให้ข้าฟังอีก" 
+ tutorial_lesson_button_back: "ย้อนกลับ"
+ tutorial_lesson_button_repeat_step: "ลองอีกครั้ง"
+ tutorial_lesson_button_come_again: "โปรดกล่าวซ้ำ"
+ TUTORIAL_STEP_INSTRUCTIONS: "#low หากต้องการดำเนินการต่อ:#!"
+ skip_to_next_topic: "ข้ามไปยังหัวข้อถัดไป"
+ tutorial_lesson_button_finish_tutorial: "เริ่มต้น"
+
+
+ ############ CORE ############
+
+ lesson_basics_welcome: "@caesar! ขอต้อนรับสู่ #italic ยูโรปา ยูนิเวอร์ซาลิส 5#!"
+ lesson_welcome_desc: "ประวัติศาสตร์เกือบห้าศตวรรษกำลังจะคลี่ขยายต่อหน้าท่าน ในฐานะจิตวิญญาณแห่งชาติ ท่านมีอำนาจที่จะเลือกวิถีทางได้ตามประสงค์\n\nท่านอาจพิชิตโลก พัฒนาสังคมให้รุ่งเรืองเป็นแดนอุดมคติ หรือก้าวสู่เป็นมหาอำนาจทางเศรษฐกิจที่ไร้คู่เปรียบ ไม่ว่าท่านจะเลือกสิ่งใด ประวัติศาสตร์ล้วนอยู่ในกำมือท่าน"
+
+ lesson_basics_camera: "@caesar! กล้องและการควบคุม"
+ lesson_basics_camera_desc: "ให้เรามาทบทวนพื้นฐานกันครู่หนึ่งก่อนเริ่มต้น สิ่งที่สำคัญที่สุดในเกมคือแผนที่ และการหาเส้นทางไปรอบ ๆ แผนที่นั้นถือเป็นสิ่งจำเป็น\n\nใช้ปุ่ม @key_w!, @key_a!, @key_s!, และ @key_d! เพื่อส่องสำรวจไปรอบแผนที่\n\nใช้ @centerscroll! #high ปุ่มลูกกลิ้งเมาส์#! เพื่อขยายเข้าและออก\n\nการกด @key_tab! ค้างไว้จะทำให้ท่านเห็นภาพรวมของโลกทั้งใบ"
+
+ lesson_basics_nested_tooltips: "@caesar! คำแนะนำประกอบ"
+ lesson_basics_nested_tooltips_complete: "@caesar! คำแนะนำประกอบ"
+ lesson_basics_nested_tooltips_desc: "แนวคิดในเกมจะถูกเน้นด้วยสีฟ้าและมีข้อมูลเกี่ยวกับกลไก เฉพาะที่ท่านอาจพบเจอภายในเกม ตัวอย่างเช่น เราอาจกล่าวว่าท่านเล่นเป็น [country_with_icon|e]\n\nตามค่าเริ่มต้น ท่านสามารถเข้าถึงคำแนะนำซ้อนได้โดยการรอสักครู่ เพื่อให้มันล็อกไว้ หลังจากนั้นท่านสามารถเลื่อนเมาส์ไปดูคำแนะนำ ด้านในต่อได้ นอกจากนี้ท่านยังล็อกคำแนะนำได้ด้วย @centerclick!#high ปุ่มกลางของเมาส์#!\n\nพฤติกรรมนี้สามารถเปลี่ยนได้ใน #high การตั้งค่า (@key_escape!) > ส่วนติดต่อผู้ใช้ > การตั้งค่าคำแนะนำ#!"
+ lesson_basics_tooltips_in_tooltips_hover_word: "เลื่อนเมาส์ไปวางเหนือข้อความสีฟ้า"
+ lesson_basics_nested_tooltips_continue: "เลื่อนเมาส์ไปวางเหนือคำแนะนำซ้อน"
+
+ lesson_basics_your_nation: "[country_icon] ชาติของท่าน"
+ lesson_basics_your_nation_desc: "ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! ท่านจะได้สวมบทบาทเป็น #high จิตวิญญาณแห่งชาติ#! ซึ่งเป็นตัวแทนเชิงนามธรรมของ [country_with_icon|e]\n\nปัจจุบันท่านกำลังเล่นเป็น [country_icon] [GetPlayer.GetLongName] อันเป็น [country] ที่มี [GetPlayer.GetGovernment.GetRuler.GetShortName] เป็น [ruler_with_icon|e]"
+
+ lesson_basics_top_bar: "@caesar! แถบด้านบน"
+ lesson_basics_top_bar_desc: "#high แถบด้านบน#! ประกอบด้วยองค์ประกอบที่หลากหลาย มันจะคงอยู่ที่ด้านบนของหน้าจอตั้งแต่นี้เป็นต้นไป เพื่อให้ท่านเห็นภาพรวมของ [country_with_icon|e]\n\nท่านอาจสังเกตเห็นว่ามีวันที่อยู่ที่มุมขวาบน ทั้งนี้เพราะตัวเกมดำเนินไปในแบบ #high เวลาจริง#! แต่โปรดอย่ากังวลไป ขณะนี้เราได้หยุดเวลาไว้และไม่มีสิ่งใดเกิดขึ้น"
+
+ lesson_basics_estates: "@caesar! แถบด้านบน"
+ lesson_basics_estates_desc: "ส่วนซ้ายสุดของแถบด้านบนจะแสดง [estates_with_icon|e] ของท่าน ซึ่งเป็นกลุ่มขั้วอำนาจภายใน [country_with_icon|e] ในฐานะผู้เล่น ท่านจะถูกแทนด้วย [GetEstateName('crown_estate')]\n\nเราจะกลับมาที่เหล่าฐานันดรในภายหลัง แต่สำหรับตอนนี้ โปรดจำไว้ว่าทุกฐานันดรจะถือครองสัดส่วนความมั่งคั่ง และอำนาจ ของประเทศ และมีระดับ [estate_satisfaction_with_icon|e] ที่ท่านสามารถติดตามได้บนแถบด้านบน\n\nการจัดสรรอำนาจระหว่าง $game_concept_estates$ จะแตกต่างกันไปในแต่ละ $game_concept_country$ โดยที่บาง $game_concept_countries$ อาจเข้าถึง $game_concept_estates$ ที่มีเอกลักษณ์เฉพาะตัว"
+ 
+ lesson_basics_resources: "@caesar! แถบด้านบน"
+ lesson_basics_resources_desc: "ลำดับถัดไป ให้เรามาดูทรัพยากรและสถิติต่าง ๆ ในแถบด้านบน นี่คือส่วนกลางของแถบซึ่งประกอบด้วยทรัพยากรที่สำคัญที่สุด ที่ท่านต้องคอยติดตามในขณะปกครอง [country_with_icon|e]\n\nท่านจำเป็นต้องใช้ [gold_with_icon|e] สำหรับการออกคำสั่งหลายอย่างในเกมนี้ ตั้งแต่การจ่ายเบี้ยเลี้ยงทหารไปจนถึงการสร้างเมืองของท่าน แต่ทรัพยากรที่สำคัญที่สุดของท่านคือ [population_with_icon|e] เพราะพวกเขาคือรากฐานของการเมือง เศรษฐกิจ และกองทัพของท่าน\n\nตัวเลขอีกชุดหนึ่งที่สำคัญเป็นพิเศษคือ [stability_with_icon|e] ซึ่งเป็นมาตรวัดความยืดหยุ่นภายในที่จะช่วยให้ท่านรักษา [estates] และ [population] ให้ภักดี และท่านสามารถใช้มันเพื่อใช้อิทธิพลต่อการเมืองใน [country] ของท่าน\n\nเราจะไปดูตัวเลขส่วนที่เหลือเมื่อถึงเวลาที่จำเป็น สำหรับตอนนี้ ให้เราดำเนินการต่อ"
+
+ lesson_basics_time_and_research: "@caesar! เวลา"
+ lesson_basics_time_and_research_desc: "#high ยูโรปา ยูนิเวอร์ซาลิส 5#! ดำเนินไปในช่วงเวลาหลายร้อยปี ท่านสามารถดูวันที่ปัจจุบันได้ที่มุมบนขวาของหน้าจอ ซึ่งเป็นจุดที่ท่านใช้ควบคุมความเร็วของเกมด้วยเช่นกัน\n\nเวลาจะถูกแบ่งออกเป็นหก [ages|e] ที่แตกต่างกัน ในขณะนี้เราอยู่ใน [ShowAgeName('age_1_traditions')] ซึ่งจะสิ้นสุดในปี #high 1342#! เพื่อส่งไม้ต่อให้แก่ [ShowAgeName('age_2_renaissance')] ในแต่ละ $game_concept_age$ ท่านจะสามารถเข้าถึง [advances_with_icon|e] ใหม่ ๆ เพื่อทำการวิจัย\n\nดังที่ได้กล่าวไว้ก่อนหน้า ขณะนี้ตัวเกมกำลังหยุดเวลาอยู่ ดังนั้นท่านจะมิพลาดเหตุการณ์ใดไปอย่างแน่นอน"
+
+ lesson_basics_wrap_up_0: "@caesar! แผงควบคุมหลัก"
+ lesson_basics_wrap_up_0_desc: "ขอเชิญท่านพิจารณาองค์ประกอบพื้นฐานของส่วนติดต่อผู้ใช้ เริ่มจากแถบที่มุมบนซ้าย มีแผงควบคุม 8 แบบที่เข้าถึงได้จากที่นี่ ซึ่งท่านจะต้องใช้เวลาคลุกคลีกับมันอย่างมาก\n\nประกอบด้วย @government_panel![Link('government', '', 'การปกครอง')], @economy_panel![Link('economy', '', 'เศรษฐกิจ')], @production_panel![Link('production', '', 'การผลิต')], @society_panel![Link('country_culture', '', 'สังคม')], @diplomacy_panel![Link('diplomacy', '', 'การทูต')], @military_panel![Link('unit_overview', '', 'การทหาร')], @geopolitics_panel![Link('expansion', '', 'ภูมิรัฐศาสตร์')] และ @advances_panel![Link('advances', '', 'ความก้าวหน้า')]"
+
+ lesson_basics_wrap_up_2: "@hint! คำแนะนำ"
+ lesson_basics_wrap_up_2b: "คำแนะนำ 2b"
+ lesson_basics_wrap_up_2_desc: "นอกจากแนวคิดในเกมที่ท่านพบได้ทั่วไปแล้ว กลไกสำคัญบางอย่างจะมีคำแนะนำที่เกี่ยวข้อง ซึ่งจะอธิบายรายละเอียดอย่างถี่ถ้วน พร้อมข้อเสนอแนะต่าง ๆ\n\nท่านสามารถเรียกดูคำแนะนำได้ทุกเมื่อใน @hint![Link('hints', '', 'แผงคำแนะนำ')]\n\n@hint! เมื่อใดก็ตามที่ท่านเห็นไอคอนนี้ ในคำแนะนำประกอบ การกดที่ไอคอนจะนำท่านไปยังคำแนะนำที่เกี่ยวข้อง"
+ lesson_basics_open_hints: "เปิดแผงคำแนะนำ"
+ lesson_basics_close_hints: "ปิดแผงคำแนะนำ"
+
+
+ lesson_core_loop_0: "@caesar! บทนำการเล่น"
+ lesson_core_loop_0_desc: "#high ยูโรปา ยูนิเวอร์ซาลิส 5#! เป็นเกมที่กว้างขวางซึ่งเปิดโอกาส ให้มีรูปแบบการเล่นและความเป็นไปได้นับไม่ถ้วน\n\nไม่ว่าท่านจะมองตนเองเป็นผู้พิชิตอันโหดเหี้ยม นักการเมืองผู้ชาญฉลาด หรือผู้บริหารที่มีสัมผัสแห่งไมดัส แต่มีพื้นฐานบางประการที่ผู้ปกครอง ที่ประสบความสำเร็จทุกคนจำต้องเชี่ยวชาญ ให้เราไปพิจารณาสิ่งเหล่านั้นกันเถิด!" 
+
+ lesson_core_loop_1: "[gold_icon] งบดุล"
+ lesson_core_loop_1_desc: "ดังที่เราได้กล่าวไป [gold_with_icon|e] คือหนึ่งในทรัพยากรที่สำคัญที่สุดในเกม การออกคำสั่งส่วนใหญ่ล้วนต้องใช้ [gold] และบ่อยครั้งที่ความสามารถในการบังคับใช้ เจตจำนงของท่านในฐานะผู้ปกครอง ทั้งภายนอกและภายใน [country_with_icon|e] จะขึ้นอยู่กับความมั่งคั่งที่ท่านสามารถรวบรวมมาไว้ในมือ เส้นทางสู่การครองโลกนั้นถูกปูด้วยทองคำและโลหิต\n\nการเงินส่วนใหญ่ของท่านจะถูกควบคุมจาก [Link('economy', '', '@economy_panel! แผงงบดุล')] ดังนั้นให้เราพิจารณามันอย่างใกล้ชิด" 
+ lesson_core_loop_open_balance: "เปิดแผงงบดุล"
+
+ lesson_core_loop_2: "[gold_icon] งบดุล"
+ lesson_core_loop_2_desc: "ที่นี่ท่านจะพบภาพรวมของ [budget_with_icon|e] ส่วนต่างระหว่าง [income_with_icon|e] และ [expenses_with_icon|e] ของท่านจะถูกนำไปเพิ่มใน [treasury_with_icon|e] เมื่อสิ้นสุดในทุก ๆ เดือน ท่านสามารถปรับเปลี่ยนแถบเลื่อนต่าง ๆ ในแผงนี้เพื่อแก้ไข [balance] รายเดือนของท่าน\n\nดังที่เพิ่งได้เห็นไป ส่วนต่างระหว่างรายรับและรายจ่ายรายเดือนจะแสดงอยู่ที่ #high แถบด้านบน#! ด้วยเช่นกัน" 
+
+ lesson_core_loop_3: "[taxes_icon] ภาษี"
+ lesson_core_loop_3_desc: "ความมั่งคั่งส่วนใหญ่ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! จะถูกสร้างขึ้นเป็นรายเดือนในดินแดนที่ท่านถือครอง นั่นคือ [locations_with_icon|e] ของท่าน\n\nเราจะพูดถึงทำเลในภายหลัง สำหรับตอนนี้ท่านสามารถเลื่อนเมาส์ไปวางเหนือตัวเลข [tax_base_with_icon|e] ที่มุมบนซ้ายเพื่อดูการแจกแจง รายละเอียดของทำเลที่มั่งคั่งที่สุดของท่าน นั่นคือจุดที่ [gold_with_icon|e] กำลังถูกสร้างขึ้นใน [country_icon] [Player.GetLongName]" 
+
+ lesson_core_loop_4: "[taxes_icon] ภาษี"
+ lesson_core_loop_4_desc: "อย่างไรก็ตาม [gold_with_icon|e] เหล่านั้นมิได้ไหลเข้าสู่ [treasury_with_icon|e] ของท่านโดยตรง ในฐานะรัฐบาล ท่านจะเก็บเกี่ยวผลประโยชน์เพียงส่วนเสี้ยวของ [tax_base_with_icon|e] โดยการเรียกเก็บ [taxes_with_icon|e] จากเหล่า [estates_with_icon|e] ของท่าน\n\nท่านสามารถกำหนดระดับการเก็บภาษีได้ โดยการปรับแถบเลื่อนภาษีในแผงงบประมาณ โปรดสังเกตว่า [estate_satisfaction_with_icon|e] ของพวกเขาจะลดลงยิ่งท่านเก็บภาษีมากขึ้น เหล่าฐานันดรมิใคร่ชอบใจในการเสียภาษีนัก\n\n[maximum_tax_with_icon|e] ที่ท่านสามารถกำหนดให้แต่ละฐานันดร ขึ้นอยู่กับปัจจัยหลายประการ เช่น อำนาจที่พวกเขามี บางครั้งท่านอาจมิสามารถเก็บภาษีจากฐานันดรเฉพาะบางกลุ่มได้เลย\n\nสำหรับตอนนี้ เราขอแนะนำให้ท่านตั้งค่าภาษีอัตโนมัติโดยการคลิกที่ไอคอน #W เฟือง#! @automation! ซึ่งจะเก็บภาษีในจำนวนที่เหมาะสม เพื่อรักษาความพึงพอใจของพวกเขาให้สูงกว่า #G 50%#! [estate_satisfaction_icon] ทันทีที่ท่านเริ่มเดินเวลาเกม" 
+ lesson_core_loop_automate_taxes: "เก็บภาษีอัตโนมัติสำหรับทุกฐานันดร"
+
+ lesson_core_loop_5: "[income_icon] รายรับรายเดือน"
+ lesson_core_loop_5_desc: "นอกเหนือจาก [taxes_with_icon|e] อีกหนึ่งแหล่งที่มาสำคัญของ [income_with_icon|e] คือ [minting_with_icon|e] ท่านสามารถกษาปณ์เหรียญ ได้ตามใจปรารถนาเพื่อแก้ไขงบประมาณ แต่การกษาปณ์มากเกินไปจะทำให้เกิด [inflation_with_icon|e]\n\nท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [inflation] ได้ใน [Link('hints', 'selected_hint = hint_inflation', '@hint! คำแนะนำเกี่ยวกับภาวะเงินเฟ้อ')]" 
+ lesson_core_loop_minting: "เลื่อนแถบการกษาปณ์เพื่อผลิตเหรียญดัคเกิตอันเงางาม"
+ lesson_core_loop_inflation: "ตรวจสอบให้แน่ใจว่าท่านมิได้ก่อให้เกิดภาวะเงินเฟ้อ"
+
+ lesson_core_loop_6: "[income_icon] รายรับรายเดือน"
+ lesson_core_loop_6_desc: "แหล่งที่มาของ [income_with_icon|e] อีกสองแห่งที่พบได้บ่อยที่สุดคือ [trade_with_icon|e] และ [food_with_icon|e] เนื่องจากสิ่งเหล่านี้เป็นแนวคิดที่ซับซ้อนกว่า เราจะยังไม่กล่าวถึงในตอนนี้ ท่านสามารถเรียนรู้เกี่ยวกับสิ่งเหล่านี้ได้ เมื่อท่านพร้อมในคำแนะนำที่เกี่ยวข้อง:\n\n$TAB$[Link('hints', 'selected_hint = hint_trade', '@hint! คำแนะนำเกี่ยวกับการค้า')]\n$TAB$[Link('hints', 'selected_hint = hint_food', '@hint! คำแนะนำเกี่ยวกับเสบียง')]"
+
+
+ lesson_core_loop_7: "@caesar! เริ่มเดินเวลา"
+ lesson_core_loop_7_desc: "ให้เราเริ่มเดินเวลาสักครู่ก่อนจะไปดูในส่วนของ [expenses_with_icon|e]\n\nท่านสามารถปรับ #high ความเร็ว#! ที่เกมดำเนินไปได้จาก #high แถบด้านบน#! ความเร็วระดับ #high 3#! หรือ #high 4#! เป็นจังหวะที่ดีสำหรับการเริ่มต้น แต่ผู้เล่นแต่ละคนล้วนมีความชอบที่แตกต่างกันไป\n\nท่านยังสามารถกด @key_space! เพื่อ #high หยุด#! และ #high เริ่มเดินเวลา#! เกมได้ทุกเมื่อที่ต้องการ"
+ lesson_core_loop_unpause_month: "เริ่มเดินเวลาและปล่อยให้เวลาผ่านไป หนึ่งเดือนเพื่อดูตัวเลขที่อัปเดต"
+
+ lesson_core_loop_7b: "@caesar! เริ่มเดินเวลา"
+ lesson_core_loop_7b_desc: "ยอดเยี่ยม! เวลาผ่านไปหนึ่งเดือนแล้ว และเราได้ #high หยุด#! เกมไว้ให้ท่าน\n\nท่านจะเห็นว่าตัวเลขต่าง ๆ ได้รับการอัปเดตแล้ว และเหล่า [estates_with_icon|e] ของท่านกำลังจ่าย [taxes_with_icon|e] ตามหน้าที่ การคำนวณหลายอย่างในเกมนี้ จะเกิดขึ้นเมื่อสิ้นสุดเดือน\n\nให้เรามาพิจารณา [expenses_with_icon|e] กันในตอนนี้"
+
+ lesson_core_loop_8: "[expenses_icon] รายจ่ายรายเดือน"
+ lesson_core_loop_8_desc: "การออกคำสั่งหลายอย่างในเกมต้องใช้ [gold_with_icon|e] ในทันทีที่ท่านสั่งการ แต่แม้ในยามที่ท่านมิได้ใช้จ่าย [gold] อย่างแข็งขัน [budget_with_icon|e] ของท่านก็ยังต้องแบกรับภาระของ [expenses_with_icon|e] รายเดือนตามปกติ\n\nท่านสามารถจ่าย [gold] เพื่อเพิ่ม [stability_with_icon|e] และ [legitimacy_with_icon|e] ซึ่งเป็นค่าสถิติสำคัญสองประการที่เราเห็นบน #high แถบด้านบน#! เราขอแนะนำให้ท่านจ่ายอย่างน้อย ให้เพียงพอเพื่อมิให้ค่าเหล่านี้ลดลง\n\nค่า [maintenance_with_icon|e] ของ [armies_with_icon|e] ประจำการ, [navies_with_icon|e] และ [fortifications_with_icon|e] ที่เปิดใช้งานอยู่อาจกลายเป็นอุปสรรคสำคัญต่อ [budget] ของท่าน การลด [maintenance] ในยามสงบถือเป็นความคิดที่สมเหตุสมผล" 
+ lesson_core_loop_positive_income: "ปรับแถบเลื่อนงบประมาณเพื่อให้มีงบดุลรายเดือนเป็นบวก"
+ 
+
+ lesson_core_loop_9: "[budget_icon] สรุปงบประมาณ"
+ lesson_core_loop_9_desc: "ยอดเยี่ยมยิ่งนัก! ท่านได้เข้าใจพื้นฐานการจัดการ [budget_with_icon|e] แล้ว ให้เรามาสรุปกันสักเล็กน้อย:\n\n$BULLET$[income_with_icon|e] และ [expenses_with_icon|e] จะถูกคำนวณเมื่อสิ้นสุดเดือน\n\n$BULLET$[gold_with_icon|e] จะถูกสร้างขึ้นใน [locations_with_icon|e] ของท่าน และถูกจัดเก็บโดย [estates] ซึ่งท่านจะเก็บ [tax_with_icon|e] เพื่อนำไปเติมใน [treasury_with_icon|e]\n\n$BULLET$[estates_with_icon|e] มิได้ชื่นชอบการถูกเก็บภาษีเป็นพิเศษ\n\n\nแต่ [estates] เหล่านี้คือใครกันแน่ ข้าแว่วเสียงท่านถามเช่นนั้น และเหตุใดพวกมันจึงมิยอมสยบต่อทุกความปรารถนาของท่าน?" 
+
+ lesson_estates_1: "[estates_icon] ส่วนกลางและเหล่าฐานันดร"
+ lesson_estates_1_desc: "เหล่า [estates_with_icon|e] คือหนึ่งในเสาหลักของการปกครองใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! พวกมันมิได้เป็นเพียงแหล่งที่มาของ [taxes_with_icon|e] เท่านั้น แต่ยังสามารถเป็นขุมกำลังอันทรงพลังเมื่อมีความจงรักภักดี หรือเป็นศัตรูที่น่าสะพรึงกลัวเมื่อไร้ซึ่งความภักดี\n\nให้เรามาพิจารณาพวกมันอย่างใกล้ชิดใน @government_panel![Link('government', 'tabcontent = estates', 'หน้าต่างฐานันดร')]"
+
+ lesson_estates_2: "[crown_power_icon] ส่วนกลาง"
+ lesson_estates_2_desc: "ที่นี่ท่านจะเห็นกลุ่มต่าง ๆ ที่ถือครอง [political_power] ใน [country_with_icon|e] ของท่าน ซึ่งก็คือเหล่า [estates_with_icon|e] โดยที่แต่ละ [estate] จะมีสัดส่วนของ [estate_power_with_icon|e] ในฐานะตัวแทนของชาติ ท่านจะถูกแทนด้วย [GetEstateName('crown_estate')]\n\n[crown_power_with_icon|e] ของท่านแสดงถึงความสามารถในการต่อต้าน ผลประโยชน์เฉพาะส่วนของเหล่าฐานันดร กล่าวคือ มันช่วยให้ท่านเรียกเก็บ [taxes_with_icon|e] ได้สูงขึ้น ทั้งยังเพิ่ม [estate_satisfaction_with_icon|e] และแรงสนับสนุนใน [parliament_with_icon|e] ทำให้การเปลี่ยน [laws_with_icon|e] ง่ายขึ้น และมอบส่วนแบ่งกำไรจาก [trade_with_icon|e]\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับอำนาจส่วนกลางได้ใน [Link('hints', 'selected_hint = hint_crown_power', 'คำแนะนำเกี่ยวกับอำนาจส่วนกลาง')]"
+
+ lesson_estates_3: "[estates_icon] เหล่าฐานันดร"
+ lesson_estates_3_desc: "เหล่า [estates_with_icon|e] ของท่านสามารถเป็นขุมกำลัง ที่ทรงคุณค่าหากจัดการอย่างถูกต้อง แต่หากพวกมันมิพอใจ ก็อาจกลายเป็นหนามยอกอกที่แสนอันตรายได้อย่างรวดเร็ว\n\nนอกจากการส่งส่วยให้แก่เงินคลังของท่านด้วย [taxes_with_icon|e] แล้ว เหล่า [estates] ยังมีความสำคัญยิ่งต่อกิจการแห่ง [war_with_icon|e] เนื่องจากท่านจำต้องพึ่งพา [levies_with_icon|e] ของพวกมันในการทำศึกสงคราม จนกว่าท่านจะมีกำลังทรัพย์พอที่จะแทนที่พวกมันด้วย [regular_regiments_with_icon|e]\n\nอย่างไรก็ตาม หากพวกมันไร้ซึ่งความภักดี พวกมันอาจเริ่มสนับสนุน [rebellions_with_icon|e] เพื่อต่อต้านอำนาจของท่าน และอาจโค่นล้มการปกครองของท่านผ่าน [civil_war_with_icon|e]\n\nท้ายที่สุด ฐานันดรที่มีความพึงพอใจสูงกว่า #G 50%#! [estate_satisfaction_icon] จะมอบโบนัสที่หลากหลายให้แก่ [country_with_icon|e] ของท่านตามประเภทของพวกมัน ในขณะที่ฐานันดรที่มิพอใจจะสร้างบทลงโทษแทน"
+
+ lesson_estates_4: "[privileges_icon] เอกสิทธิ์"
+ lesson_estates_4_desc: "[estates] สามารถได้รับมอบ [privileges_with_icon|e] ซึ่งโดยปกติแล้วจะเพิ่มทั้ง [estate_satisfaction_with_icon|e] และ [estate_power_with_icon|e] อีกทั้งยังมาพร้อมกับผลลัพธ์เพิ่มเติม สำหรับประเทศและประชากรของท่าน\n\nการเพิกถอนเอกสิทธิ์จะทั้งสร้างความโกรธเคือง และทำให้อ่อนแอลงแก่ฐานันดรเป้าหมาย แม้ว่านั่นจะเป็นความพยายาม ที่ต้องแลกมาด้วยราคาแพงซึ่งอาจทำลาย [stability_with_icon|e] ของท่านได้\n\nแม้ว่าพวกมันจะเพิ่มอำนาจ ให้แก่เหล่าฐานันดร (และส่งผลให้ [crown_power_with_icon|e] ของท่านลดลง) แต่เอกสิทธิ์บางอย่างอาจสอดคล้องกับผลประโยชน์ของท่าน การมอบเอกสิทธิ์บางประการในยามคับขัน อาจเป็นวิถีทางที่ชาญฉลาด เพื่อเพียงมอดดับเปลวเพลิงแห่ง [rebellion_with_icon|e] หามีกษัตริย์องค์ใดปกครองได้โดยลำพังไม่"
+
+ lesson_estates_5: "[pop_type_icon|e] ชนชั้นทางสังคม"
+ lesson_estates_5_desc: "นอกเหนือจาก [privileges] แล้ว เหล่า [estates_with_icon|e] จะได้รับ [estate_power_with_icon|e] หลัก ๆ มาจากโครงสร้างทางสังคมของ [population_with_icon|e]\n\n[population] ของท่านถูกแบ่งออกเป็น [pop_types_with_icon|e] ที่แตกต่างกัน ซึ่งแต่ละประเภท จะสนับสนุนฐานันดรที่ต่างกันไป:\n\n$BULLET_WITH_TAB$[GetEstateName('nobles_estate')] ได้รับการสนับสนุนโดย @nobles! [ShowPopTypeName('nobles')]\n$BULLET_WITH_TAB$[GetEstateName('clergy_estate')] ได้รับการสนับสนุนโดย @clergy! [ShowPopTypeName('clergy')]\n$BULLET_WITH_TAB$[GetEstateName('burghers_estate')] ได้รับการสนับสนุนโดย @burghers! [ShowPopTypeName('burghers')]\n$BULLET_WITH_TAB$[GetEstateName('peasants_estate')] ได้รับการสนับสนุนโดย:\n$TAB$$BULLET_WITH_TAB$@peasants! [ShowPopTypeName('peasants')], @laborers! [ShowPopTypeName('laborers')] และ @soldiers! [ShowPopTypeName('soldiers')]\n\n[population] ของท่านดำรงชีวิตและล้มตายใน [locations_with_icon|e] ของท่าน ซึ่งก็คือบนแผนที่นั่นเอง ให้เรามาพิจารณาสิ่งเหล่านั้นกันเถิด"
+
+ lesson_map_1: "[known_world_icon] แผนที่"
+ lesson_map_1_desc: "โลกแห่ง #high ยูโรปา ยูนิเวอร์ซาลิส 5#! ประกอบขึ้นจาก [countries_with_icon|e] ต่าง ๆ ที่ถือครอง [locations_with_icon|e] บนแผนที่ อันเป็นแหล่งที่พวกมันสกัดทรัพยากร และกำลังพลที่จำเป็นเพื่อให้อยู่เหนือเพื่อนบ้าน\n\nหากท่านขยายภาพออก ท่านจะเห็นชื่อ [country] ปรากฏบนแผนที่ การเลื่อนเมาส์ไปวางเหนือชื่อเหล่านั้นจะแสดงคำแนะนำประกอบของ [country] และการคลิกจะเปิด #high แผงควบคุมประเทศต่างแดน#! ซึ่งท่านสามารถเรียนรู้และสร้างปฏิสัมพันธ์กับ [country] นั้นได้"
+ lesson_trigger_zoom_out: "@centerscroll! ขยายภาพออกเพื่อดูประเทศต่าง ๆ"
+ lesson_trigger_foreign_country: "เปิดแผงควบคุมประเทศโดยการ @leftclick!#high คลิกซ้าย#! บนประเทศต่างแดน" 
+
+ lesson_map_2: "[known_world_icon] แผนที่"
+ lesson_map_2_desc: "[countries_with_icon|e] นั้นหามีค่าไม่หากไร้ซึ่ง [locations_with_icon|e] เพราะ [locations] คือหัวใจของเศรษฐกิจและการเมืองของทุก [country] ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! พวกมันผลิต [goods_with_icon|e] และสร้าง [tax_base_with_icon|e] อีกทั้งยังเป็นบ้านของ [population_with_icon|e] ที่มี [pop_types_with_icon|e], [religions_with_icon|e] และ [cultures_with_icon|e] ที่หลากหลาย\n\n[locations] สามารถมี [location_rank_with_icon|e] ได้ 3 ระดับ:\n$BULLET_WITH_TAB$@city! [ShowLocationRankName('city')]\n$BULLET_WITH_TAB$@town! [ShowLocationRankName('town')]\n$BULLET_WITH_TAB$@rural_settlement! [ShowLocationRankName('rural_settlement')]\n\nลำดับศักดิ์ทำเลที่ต่างกันจะมี [pop_types], [buildings_with_icon|e] และตัวผันแปรที่ต่างกันไป"
+
+ lesson_map_3: "[known_world_icon] แผนที่"
+ lesson_map_3_desc: "[location_with_icon|e] ที่สำคัญที่สุดสำหรับทุก [country_with_icon|e] คือ [capital_with_icon|e] เมืองหลวงของท่านคือ [Player.GetCapital.GetName] ท่านจะจำมันได้บนแผนที่จากรูปดาวสีทองภายในไอคอน [location_rank|e] ของมัน (@city_capital!/@town_capital!/@rural_settlement_capital!)\n\n$BULLET$ท่านสามารถ @leftclick!#high ดับเบิลคลิก#! ที่ธงของท่านบน #high แถบด้านบน#! เพื่อเคลื่อนกล้องไปยังเมืองหลวงของท่าน\n\n$BULLET$ท่านยังสามารถค้นหา [location] ใด ๆ ได้โดยการกด @key_f! เพื่อเปิด [Link('find_location', '', '@finder_panel! เครื่องมือค้นหา')] และพิมพ์ชื่อลงไป"
+ lesson_trigger_zoom_in: " @centerscroll! ขยายภาพเข้าเพื่อดู [locations]"
+ lesson_trigger_capital: "@leftclick!#high คลิก#! ที่เมืองหลวงของท่าน [Player.GetCapital.GetNameWithNoTooltip]"
+
+ lesson_control_groups_1: "@caesar! กลุ่มควบคุม"
+ lesson_control_groups_1_desc: "ก่อนที่จะพิจารณา [location_icon] [Player.GetCapital.GetName] ให้เราหยุดครู่หนึ่งเพื่อดู #high กลุ่มควบคุม#! สิ่งเหล่านี้อยู่ที่ด้านล่างของหน้าจอ และทำหน้าที่เป็นทางลัดในการเข้าถึงสิ่งต่าง ๆ ในโลกของเกมได้อย่างรวดเร็ว\n\nท่านสามารถกำหนด [locations_with_icon|e], [countries_with_icon|e], [markets_with_icon|e], [armies_with_icon|e] และอื่น ๆ ให้กับปุ่มหมายเลขเฉพาะได้ ให้เราลองทำโดยการกำหนดเมืองหลวงของท่าน [Player.GetCapital.GetName]\n\nเมื่อเปิดแผงควบคุมของ [Player.GetCapital.GetNameWithNoTooltip] แล้ว ให้กด #high CTRL+1#! เพื่อกำหนดให้เป็นกลุ่มควบคุมใหม่"
+ lesson_basics_click_map: "@leftclick!#high คลิก#! ที่ [Player.GetCapital.GetNameWithNoTooltip]"
+ lesson_basics_assign_control_group: "กด #high CTRL+1#! เพื่อกำหนดให้เป็นกลุ่มควบคุม"
+
+ lesson_control_groups_2: "@caesar! กลุ่มควบคุม"
+ lesson_control_groups_2_desc: "ยอดเยี่ยม! บัดนี้การกดหมายเลขที่กำหนดไว้จะเคลื่อนกล้องไปยัง [location_icon] [Player.GetCapital.GetName] และเปิดแผงควบคุมขึ้นมา\n\nหากต้องการล้างกลุ่มควบคุม ท่านสามารถ @rightclick!#high คลิกขวา#! หรือกด #high CTRL#! พร้อมกับหมายเลขที่สอดคล้องกัน"
+
+
+ lesson_location_1: "[location_icon] ทำเล"
+ lesson_location_1_desc: "ให้เรามาดู #high แผงทำเล#! กันในตอนนี้:\n\n[location_with_icon|e] ใด ๆ ล้วนมีประชากรประกอบด้วย [pop_types_with_icon|e] ที่หลากหลาย ดังที่เราเพิ่งได้เห็นไป [pops_with_icon|e] จะเพิ่ม [estate_power_with_icon|e] ให้แก่ [estate_with_icon|e] ที่เกี่ยวข้อง\n\nจำนวนของ [pops] ในแต่ละประเภทประชากรขึ้นอยู่กับ [buildings_with_icon|e] ที่มีอยู่ใน [location] เป็นหลัก สิ่งปลูกสร้างสามารถสร้างขึ้นได้โดยท่าน หรือเหล่าฐานันดรของท่าน และจำเป็นต้องจ้างงาน [pop_type] เฉพาะเพื่อให้สามารถทำงานได้ เมื่อมีการสร้างสิ่งปลูกสร้าง เหล่า @peasants! [ShowPopTypeName('peasants')] จะ [promote_with_icon|e] ไปสู่ [pop_type] ที่จำเป็นเพื่อเติมเต็มตำแหน่งงานเหล่านั้น\n\nสิ่งปลูกสร้างบางแห่งจะผลิต [goods_with_icon|e] ซึ่งเมื่อนำไปขายใน [market_with_icon|e] จะสร้าง [wealth_with_icon|e] ให้แก่ [location]"
+
+ lesson_location_2: "[rgo_icon] RGO"
+ lesson_location_2_desc: "มิใช่ทุก [locations_with_icon|e] ที่จะมี [buildings_with_icon|e] ในช่วงเริ่มต้นเกม แต่ทว่าทุก [location] จะมีความเชี่ยวชาญในการผลิต [good_with_icon|e] เฉพาะอย่างหนึ่งใน #high [resource_gathering_operations]#! หรือ [rgo_with_icon|e] ของทำเลนั้น ๆ ซึ่งนั่นคือสิ่งปลูกสร้างประเภทพิเศษที่จ้างงาน @laborers! [ShowPopTypeName('laborers')] เพื่อผลิต [raw_materials_with_icon|e]\n\nเช่นเดียวกับ [buildings] เหล่า [rgo] จะขาย [goods] ของพวกมันใน [market_with_icon|e] ของ [location] เพื่อสร้าง [tax_base_with_icon|e] ในช่วงเริ่มต้นเกม [tax_base] ส่วนใหญ่ของท่านจะมาจากผลผลิตของ [rgo] ของท่าน\n\n@hint! ท่านสามารถเรียนรู้เกี่ยวกับ [markets] ได้ที่นี่: [Link('hints', 'selected_hint = hint_markets', 'คำแนะนำเกี่ยวกับตลาด')]"
+
+ lesson_location_3: "[wealth_icon] ความมั่งคั่งของทำเล"
+ lesson_location_3b: "[wealth_icon] ความมั่งคั่งของทำเล"
+ lesson_location_3_desc: "ดังที่ได้เห็นไป ผลกำไรที่เพิ่มขึ้นของ [buildings_with_icon|e] และ [rgo_with_icon|e] ประกอบกันเป็น [wealth_with_icon|e] ของ [location_with_icon|e] จากนั้น [wealth] จะถูกจัดเก็บโดยเหล่า [estates_with_icon|e] ตามการปรากฏอยู่ของพวกมันใน [location]\n\nโปรดจำไว้ว่าในท้ายที่สุดท่านจะได้รับเพียงเศษเสี้ยวของ [gold_with_icon|e] เหล่านั้นในรูปแบบของ [taxes_with_icon|e]\n\n#weak ตัวอย่างเช่น ความมั่งคั่งรวมใน [location_icon] [Player.GetCapital.GetName] มีจำนวนถึง [Player.GetCapital.GetTotalPossibleTaxBase|2W] [tax_base_icon] ซึ่งท่านได้เรียกเก็บภาษีเป็นจำนวน [Player.GetCapital.GetTotalIncome|2g][gold_icon] จากเหล่า [estates] ของท่าน#!"
+ lesson_basics_hover_tax_base: "เลื่อนเมาส์วางเหนือความมั่งคั่ง เพื่อดูการจัดสรรในหมู่ฐานันดร"
+
+ lesson_location_3_recap: "@caesar! ให้เรามาสรุปกันเถิด!"
+ lesson_location_3_recap_desc: "[buildings_with_icon|e] และ [rgo_with_icon|e] ใน [locations_with_icon|e] ของท่าน จ้างงาน [pops_with_icon|e] เพื่อสร้าง [wealth_with_icon|e] โดยที่ [wealth] จะถูกแบ่งสรรในหมู่ [estates_with_icon|e] ซึ่งจะมอบ [taxes_with_icon|e] และ [levies_with_icon|e] ให้แก่ท่านเป็นการตอบแทน"
+
+ lesson_location_4: "[control_icon] อำนาจปกครอง"
+ lesson_location_4_desc: "ทว่ามิใช่ทุก [locations_with_icon|e] จะเท่าเทียมกันภายใต้ดวงตะวัน ให้เรามาสนทนาถึงหนึ่งในค่าสถิติที่สำคัญที่สุดของ [location] นั่นคือ [control_with_icon|e]\n\n[control] แสดงถึงขอบเขตอำนาจของรัฐบาลส่วนกลางใน [location] และเหนือสิ่งอื่นใด อำนาจปกครองเป็นตัวกำหนด [tax_base_with_icon|e] ของทำเล ซึ่งก็คือส่วนแบ่งของ [wealth_with_icon|e] ที่จะได้รับผลจาก [taxes_with_icon|e] ของท่าน ความมั่งคั่งใดที่อยู่นอกเหนือขอบเขตอำนาจปกครองของท่าน จะตกสู่กระเป๋าของ [estates_with_icon|e] โดยตรงและปลอดจาก [taxes] ทั้งปวง\n\n#weak เนื่องด้วยท่านมี [control] #W 100%#! ใน [capital] ของท่าน [wealth] ทั้งหมด #W 100%#! จึงถูกนับเป็นฐานภาษี ทำให้ไม่มีภาษีสูญเปล่าไป#!"
+
+ lesson_location_5: "[proximity_icon] ค่าความใกล้ชิด"
+ lesson_location_5_desc: "[control_with_icon|e] ของ [location_with_icon|e] ขึ้นอยู่กับ [proximity_with_icon|e] ที่มีต่อ [capital_with_icon|e] ของท่านโดยตรง\n\nนั่นคือเหตุผลที่ [capital] เป็นหนึ่งใน [locations] ที่สำคัญที่สุดของท่าน เพราะมันจะมี [control] ที่สูงอยู่เสมอ ซึ่งหมายความว่า [buildings_with_icon|e] และ [rgo_with_icon|e] ในเมืองหลวงของท่านจะสร้าง [income_with_icon|e] ให้แก่ท่านได้มากที่สุดเสมอ\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [proximity] และ [control] ได้ที่นี่: [Link('hints', 'selected_hint = hint_control', 'คำแนะนำเกี่ยวกับค่าความใกล้ชิด และอำนาจปกครอง')]"
+
+
+ lesson_mapmodes_1: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_1_desc: "ในยามนี้ ให้เรามาดู #high โหมดแผนที่#! กันเถิด สิ่งเหล่านี้คือมุมมองที่แตกต่างกัน ซึ่งช่วยให้ท่านเห็นแง่มุมต่าง ๆ ของโลกที่ปรากฏบนแผนที่\n\nหากท่านเลื่อนเมาส์ไปวางเหนือคำแนะนำประกอบ [control_with_icon|e] ในแผงทำเล ท่านจะเห็นปุ่มโหมดแผนที่ที่มุมขวาบนของคำแนะนำประกอบ เมื่อท่าน @leftclick!#high คลิก#! ปุ่มดังกล่าว โหมดแผนที่จะเปลี่ยนไปเพื่อแสดง [control] ใน [locations_with_icon|e] ทั้งหมดของท่าน"
+ lesson_basics_control_mapmode: "เลื่อนเมาส์วางเหนือคำแนะนำประกอบอำนาจปกครอง"
+ lesson_basics_control_mapmode_2: "@leftclick!#high คลิก#! ที่ปุ่มโหมดแผนที่บนส่วนหัวคำแนะนำประกอบ เพื่อเปิดใช้งานโหมดแผนที่อำนาจปกครอง"
+
+ lesson_mapmodes_1b: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_1c: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_1b_desc: "ยามนี้ท่านกำลังเห็นการกระจายตัวของ [control_with_icon|e] ทั่วดินแดนของท่านบนแผนที่ โปรดสังเกตว่า [control] มีแนวโน้มที่จะลดลง เมื่อ [locations_with_icon|e] อยู่ห่างจาก [capital_with_icon|e] มากขึ้น เนื่องด้วยปัจจัยด้านอำนาจปกครองนี้เอง [locations] ในพื้นที่ชายขอบของท่านจึงมิอาจ สร้างประโยชน์ได้เทียบเท่าทำเลอื่น เว้นแต่จะมีการวางโครงสร้างพื้นฐานที่เหมาะสม\n\nในขณะที่อยู่ในโหมดแผนที่นี้ ท่านยังสามารถ @leftclick!#high คลิก#! บน [countries_with_icon|e] อื่น ๆ เพื่อดู [control] ของพวกเขาที่แสดงบนแผนที่ได้เช่นกัน"
+
+ lesson_mapmodes_2: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_2a: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_2_desc: "คราวนี้ให้เรามาดูโหมดแผนที่ [proximity_with_icon|e] ท่านสามารถเข้าถึงได้ จากคำแนะนำประกอบค่าความใกล้ชิด เช่นเดียวกับที่ท่านทำกับ [control_with_icon|e]"
+ lesson_basics_proximity_mapmode: "เลื่อนเมาส์วางเหนือคำแนะนำประกอบค่าความใกล้ชิด"
+ lesson_basics_proximity_mapmode_2: "@leftclick!#high คลิก#! ที่ปุ่มโหมดแผนที่บนส่วนหัวคำแนะนำประกอบ เพื่อเปิดใช้งานโหมดแผนที่ค่าความใกล้ชิด"
+
+ lesson_mapmodes_2b: "@mapmode! โหมดแผนที่"
+ lesson_mapmodes_2b_desc: "โหมดแผนที่ [proximity_with_icon|e] แสดงให้เห็นว่า [locations_with_icon|e] อยู่ห่างจาก [capital_with_icon|e] ของท่านเพียงใดในทางปฏิบัติ\n\nท่านอาจสังเกตได้ว่า [proximity] แผ่ขยายไปได้ไกลขึ้นตามทุ่งราบ และแม่น้ำ ทว่ากลับถูกขัดขวางอย่างหนักโดยเทือกเขาหรือผืนป่า แท้จริงแล้ว [topography_with_icon|e] และ [vegetation_with_icon|e] มีบทบาทสำคัญยิ่งในการคำนวณ [proximity] เช่นเดียวกับการมีอยู่ของโครงสร้างพื้นฐานที่สร้างโดยมนุษย์ อาทิ [roads_with_icon|e] หรือ [ports_with_icon|e]\n\nการ @leftclick!#high คลิก#! บน [locations_with_icon|e] ต่าง ๆ ในขณะที่อยู่ในโหมดแผนที่นี้ จะแสดงเส้นทางที่ทำเลเหล่านั้นใช้เพื่อเข้าถึงเมืองหลวง"
+
+ lesson_basics_map_modes: "@mapmode! โหมดแผนที่"
+ lesson_basics_map_modes_complete: "@mapmode! โหมดแผนที่"
+ lesson_basics_map_modes_desc: "มี #high โหมดแผนที่#! ที่แตกต่างกันนับสิบในเกมนี้ ซึ่งสามารถใช้เพื่อแสดงข้อมูลได้ทุกประเภท\n\nตัวอย่างเช่น ท่านอาจสนใจใคร่รู้เกี่ยวกับ [markets_with_icon|e] ต่าง ๆ ทั่วโลก หรือการกระจายตัวของ [population_with_icon|e] ภายใน [country_with_icon|e] ของท่าน\n\nท่านสามารถเข้าถึง #high โหมดแผนที่#! ทั้งหมดได้โดยการเลื่อนเมาส์ไปวาง เหนือวิดเจ็ตที่ด้านล่างของหน้าจอ และเลือกโหมดแผนที่ที่ต้องการ เชิญท่านสำรวจได้ตามอัธยาศัย ทว่ามิสมควรต้องเร่งรีบทำความคุ้นเคย กับมันทั้งหมดในคราเดียว\n\nอย่าลืมกลับไปยังโหมดแผนที่เริ่มต้นด้วยการกด #high Ctrl+Q#! หรือเลือกจากแผงโหมดแผนที่"
+ lesson_basics_open_map_mode_widget: "เปิดแผงโหมดแผนที่ (ที่เน้นไว้)" 
+ lesson_basics_return_map_mode_widget: "กลับสู่โหมดแผนที่ภูมิประเทศเริ่มต้น (#high Ctrl+Q#!)"
+
+ lesson_road: "[road_icon] ถนน"
+ lesson_road_desc: "ดังที่เราได้กล่าวไปว่าท่านจำเป็นต้องมี [proximity_with_icon|e] เพื่อให้ได้มาซึ่ง [control_with_icon|e] แต่ท่านจะปรับปรุง [proximity] ของท่านได้อย่างไร?\n\nมีหลากหลายวิธีในการทำเช่นนั้น แต่วิธีหนึ่งที่สำคัญที่สุดคือการสร้าง [roads_with_icon|e] โดยที่ [roads] จะช่วยปรับปรุงการเชื่อมต่อระหว่าง [locations_with_icon|e] สองแห่ง ซึ่งจะช่วยลดค่าความใกล้ชิดที่สูญเสียไป สำหรับทุกทำเลที่ใช้เส้นทางนั้นเพื่อเข้าถึง [capital_with_icon|e]\n\nให้เรามาสร้าง [road] จาก [location_icon] [Player.GetCapital.GetName] โปรดสังเกตว่าสิ่งนี้จะต้องแลกมาด้วย [gold_with_icon|e]"
+ lesson_basics_road1: "เปิดแผงควบคุมของ [Player.GetCapital.GetNameWithNoTooltip]"
+ lesson_basics_road2: "@leftclick!#high คลิก#! ที่ปุ่มสร้างถนนเพื่อสร้าง [road] จากเมืองหลวงของท่าน"
+ lesson_basics_road3: "@leftclick!#high คลิก#! บน [location] ข้างเคียงบนแผนที่เพื่อเริ่มการก่อสร้าง"
+
+ lesson_road_2: "[road_icon] ถนน"
+ lesson_road_2_desc: "ยอดเยี่ยม! ยามนี้ [road_with_icon|e] อยู่ในระหว่าง [construction_with_icon|e] และจะใช้เวลาหลายเดือนกว่าจะเสร็จสิ้น ท่านสามารถดูความคืบหน้าการก่อสร้างได้ ในวิดเจ็ตทรงกลมบนแผนที่ เหนือ [capital_with_icon|e] ของท่าน\n\nเมื่อการสร้างเสร็จสมบูรณ์ [proximity_with_icon|e] ในทำเลเป้าหมายจะปรับปรุงให้ดียิ่งขึ้น และท่านจะเห็น [control_with_icon|e] เพิ่มสูงขึ้นตามไป\n\n[construction] ของ [buildings_with_icon|e], [rgo_with_icon|e] และ [regiments_with_icon|e] นั้นมีหลักการทำงานที่คล้ายคลึงกัน โดยจะต้องใช้ [gold_with_icon|e], จำต้องมี [goods_with_icon|e] จาก [market_with_icon|e] และต้องใช้เวลาในการดำเนินการให้แล้วเสร็จ"
+
+ lesson_road_3: "[road_icon] ถนนทุกสายมุ่งสู่ [Player.GetCapital.GetNameWithNoTooltip]"
+ lesson_road_3_desc: "[proximity_with_icon|e] และ [control_with_icon|e] คือหนึ่งในกลไกที่สำคัญที่สุดที่ท่านต้องเชี่ยวชาญใน @caesar!#W ยูโรปา ยูนิเวอร์ซาลิส 5#! ทั้ง [crown_power_with_icon|e], [tax_base_with_icon|e] และขนาดของ [levies_with_icon|e] ล้วนขึ้นอยู่กับ [control] ที่ท่านมีต่อทำเลต่าง ๆ ของท่านโดยตรง ซึ่งจะขึ้นอยู่กับ [proximity] จาก [capital_with_icon|e] อีกทอดหนึ่ง นั่นหมายความว่าการตัด [roads_with_icon|e] จากเมืองหลวงจึงเป็นเรื่องที่สำคัญยิ่งยวดสำหรับทุก [countries] ไม่ว่าใหญ่หรือน้อย\n\nนอกเหนือจาก [roads] แล้ว [proximity] ยังสามารถแพร่ขยายไปทางทะเลได้เช่นกัน แม้ว่าการออกคำสั่งเช่นนั้นให้มีประสิทธิภาพจำต้องมี [harbor_capacity_with_icon|e] และ [maritime_presence_with_icon|e] ที่ดี"
+
+ tutorial_diagram_belong_to: "สังกัดอยู่กับ"
+ tutorial_diagram_provide: "จัดสรรให้"
+ tutorial_diagram_employ: "จ้างงาน"
+ tutorial_diagram_create: "สร้างสรรค์"
+ tutorial_diagram_buildings_rgo: "สิ่งปลูกสร้าง และ ก.จ.ท."
+ tutorial_diagram_harbors: "ท่าเรือ"
+
+ tutorial_diagram_increases: "เพิ่มขึ้น"
+ tutorial_diagram_decreases: "ลดลง"
+ tutorial_diagram_affects: "ส่งผลกระทบ"
+ tutorial_diagram_improves: "ปรับปรุงให้ดียิ่งขึ้น"
+
+ lesson_basics_wrap_up_3: "@caesar! แผงสรุปรายการ"
+ lesson_basics_wrap_up_3b: "@caesar! แผงสรุปรายการ"
+ lesson_basics_wrap_up_3_desc: "ก่อนที่พวกเราจักสิ้นสุดลง ให้เรามาดูองค์ประกอบ ส่วนติดต่อผู้ใช้เพิ่มเติมอีกสองสามอย่างที่ท่านจำต้องทราบ เริ่มด้วย #high แผงสรุปรายการ#!\n\nแผงสรุปรายการจักให้ภาพรวมความเป็นไปใน [country] ของท่าน ตัวอย่างเช่น ท่านสามารถเห็น [road_with_icon|e] ที่ท่านเพิ่งสร้างขึ้น ภายใต้กลุ่ม [construction_with_icon|e]\n\nเนื้อหาในแผงสรุปรายการสามารถปรับแต่งได้ตามประสงค์ เช่นเดียวกับ #high กลุ่มควบคุม#! ท่านสามารถปักหมุดสิ่งต่าง ๆ ลงในแผงสรุปรายการได้หลากหลาย อาทิ [countries_with_icon|e], [markets_with_icon|e] หรือ [armies_with_icon|e]\n\nในการนี้ ท่านสามารถใช้ #high เมนูบริบท#! ซึ่งเข้าถึงได้โดยการ @rightclick!#high คลิกขวา#! บน [location_with_icon|e] หรือ $game_concept_country$ บนแผนที่\n\n@rightclick!คลิกขวาที่ใดก็ได้บนแผนที่ แล้วมองหาไอคอน @pin_icon!"
+ lesson_basics_add_outliner: "ปักหมุด $game_concept_country$ หรือ $game_concept_location$ ลงใน #high แผงสรุปรายการ#!"
+ lesson_basics_open_contextmenu: "เปิดเมนูบริบท"
+
+ lesson_basics_wrap_up_4: "@automation! ระบบอัตโนมัติ"
+ lesson_basics_wrap_up_4_desc: "ทำได้ดีมาก! ท่านจะสามารถเข้าถึงทุกสิ่งที่ท่านปักหมุดไว้ ทางด้านขวาของหน้าจอ\n\nเราเกือบจะถึงตอนจบของบทนำนี้แล้ว เราได้ตั้งค่า ระบบอัตโนมัติในบางกลไก เพื่อช่วยให้ท่านมุ่งเน้นที่การเรียนรู้พื้นฐาน แต่ท่านสามารถควบคุมได้ทุกเมื่อว่า จักให้สิ่งใดทำงานโดยอัตโนมัติผ่าน @automation! [Link('automation', '', 'หน้าต่างระบบอัตโนมัติ')]"
+ lesson_basics_open_automation_view: "เปิดแผงระบบอัตโนมัติ (ที่เน้นไว้)"
+
+ lesson_basics_wrap_up_4b: "@automation! ระบบอัตโนมัติ"
+ lesson_basics_wrap_up_4b_desc: "จากแผงนี้ ท่านสามารถควบคุมแง่มุมต่าง ๆ ของ [country_with_icon|e] ที่ท่านจักให้เกมจัดการแทนท่าน เราขอแนะนำให้ท่าน ลองส่องดูตัวเลือกที่มีอยู่ และค่อยกลับมาที่แผงนี้ในภายหลัง เมื่อท่านมีแนวคิดที่ชัดเจนขึ้นว่าสิ่งใด ที่ต้องการควบคุมด้วยตนเอง\n\nตัวอย่างเช่น ท่านสามารถตัดสินใจได้ว่าต้องการให้ [advances_with_icon|e] และ [cabinet_with_icon|e] ของท่านทำงานโดยอัตโนมัติ หรือจะจัดการด้วยตนเอง\n\nท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับกลไกเหล่านั้น ได้ในคำแนะนำประกอบที่เกี่ยวข้อง หากท่านตัดสินใจที่จะจัดการด้วยตนเอง:\n\n$TAB$[Link('hints', 'selected_hint = hint_can_do_more_research', '@hint! คำแนะนำเกี่ยวกับความก้าวหน้า')]\n$TAB$[Link('hints', 'selected_hint = hint_has_possible_cabinet_action', '@hint! คำแนะนำเกี่ยวกับที่ปรึกษา')]"
+
+ lesson_basics_wrap_up_5: "@caesar! การแจ้งเตือน"
+ lesson_basics_wrap_up_3b_desc: "อีกหนึ่งองค์ประกอบสำคัญที่ท่านจักได้ใช้งาน ในระหว่างการรณรงค์คือ #high การแจ้งเตือน#! ซึ่งจะปรากฏอยู่ใต้ #high แถบด้านบน#! และจะแจ้งให้ท่านทราบถึงเรื่องต่าง ๆ ที่จำต้องได้รับความสนใจ โดยเรียงตามลำดับความเร่งด่วน ตั้งแต่เร่งด่วนที่สุด (#R สีแดง#!) ไปจนถึงเร่งด่วนน้อยที่สุด (#G สีเขียว#!)\n\nโปรดทราบว่าท่านจะไม่ได้รับการแจ้งเตือน ในส่วนของเกมที่ท่านได้ @automation! #high ตั้งค่าอัตโนมัติ#! ไว้\n\n@hint! การแจ้งเตือนส่วนใหญ่มีคำแนะนำประกอบที่เกี่ยวข้อง เพื่อช่วยในการจัดการ ท่านสามารถ #high Shift+คลิก#! ที่การแจ้งเตือนเพื่อเปิดคำแนะนำประกอบที่สอดคล้องกัน"
+
+ lesson_basics_wrap_up_6: "@caesar! วาระ"
+ lesson_basics_wrap_up_6_desc: "ท้ายที่สุดนี้ เราขอแนะนำให้ท่านพิจารณา @agenda! #high วาระ#! เมื่อเริ่มต้นเกมทุกครา ซึ่งท่านจะพบกับบริบททางประวัติศาสตร์ ของ [country_with_icon|e] และการรวบรวม @hint! #high คำแนะนำประกอบ#! ที่เกี่ยวข้องที่สุดกับสถานการณ์ปัจจุบันของท่าน"
+ lesson_basics_open_agenda: "เปิดวาระ"
+
+ lesson_basics_final: "[mission_icon] สู่ภารกิจ!"
+ lesson_basics_final_desc: "ยามนี้พวกเรามาถึงตอนจบของ #W บทสอนเล่นพื้นฐาน#! แล้ว ท่านสามารถดำเนินการต่อได้ โดยการเลือกเข้าสู่บทสอนเล่นเฉพาะทางตามที่ท่านปรารถนา\n\nตามที่ท่านเลือก ท่านจะได้รับคำอธิบายสั้น ๆ ที่จะช่วยขยายพูนความรู้ในส่วนนั้นของประสบการณ์การเล่น หลังจากนั้นท่านจะพบกับเส้นทาง [missions_with_icon|e] ต่าง ๆ ซึ่งจะมอบเป้าหมายและรางวัลที่แตกต่างกันเพื่อนำทางท่านในก้าวแรกแห่ง @caesar!#W ยูโรปา ยูนิเวอร์ซาลิส 5#!\n\nขอให้โชคดี และขอให้ชาติของท่านจงเจริญรุ่งเรือง ผ่านพ้นกระแสธารแห่งกาลเวลา!"
+ lesson_basics_mission_focus: "เลือกจุดเน้นของภารกิจ"
+
+
+ ############ POLITICS ############
+
+ lesson_diplomacy_0: "@diplomacy! บทสอนเล่นการเมือง"
+ lesson_diplomacy_0b: "@diplomacy! บทสอนเล่นการเมือง"
+ lesson_diplomacy_0_desc: "พวกเรากำลังเริ่มต้นบทสอนเล่นการเมือง ณ บัดนี้ เราจะเจาะลึกลงไปในความซับซ้อนของสังคม รัฐบาล และนโยบายต่างประเทศของท่าน\n\nให้เราเริ่มด้วยรากฐานของประเทศใด ๆ นั่นคือ [population_with_icon|e]\n\nพวกเราได้เห็นภาพรวมของ [pops] ที่อาศัยอยู่ใน [capital_with_icon|e] ของท่านไปบ้างแล้วในช่วงบทนำ ยามนี้เราจะดำดิ่งลงสู่ [Link('country_culture', '', '@society_panel! แผงสังคม')]"
+ lesson_diplomacy_open_society: "เปิดแผงสังคม"
+ lesson_diplomacy_open_pops: "เปิดแถบประชากร"
+ lesson_diplomacy_1: "@society_panel! สังคม"
+ lesson_diplomacy_1_desc: "ในแผงนี้ ท่านสามารถดูและเข้าถึงแง่มุมต่าง ๆ ที่เน้นประชากรของ [country_with_icon|e] รายการ [population_with_icon|e] ใน #high แถบด้านบน#! แสดงให้เห็นว่ามีประชากรอาศัยอยู่ใน [country] ของท่านจำนวนเท่าใด รวมถึงความผันแปรของค่านั้นในแต่ละเดือน\n\nประชากรของท่านถูกแบ่งออกเป็น [pops_with_icon|e] ซึ่งคือกลุ่มคนที่มี [culture_with_icon|e], [religion_with_icon|e] และ [pop_type_with_icon|e] เดียวกันที่อาศัยอยู่ใน [location_with_icon|e] เดียวกัน\n\nดังที่เราได้เห็นไปแล้ว ประชากรแต่ละประเภท จะสนับสนุน [estate_with_icon|e] เฉพาะกลุ่ม ยิ่งไปกว่านั้น [pops] ยังมีระดับ [literacy_with_icon|e], ระดับ [pop_satisfaction_with_icon|e] รวมถึงความต้องการ [food_with_icon|e] และ [pop_needs_with_icon|e] ที่พวกเขาจะเรียกร้องจาก [market_with_icon|e] ของตน\n\nความพึงพอใจของประชากรขึ้นอยู่กับปัจจัยต่าง ๆ เช่น [culture] และ [religion] ของพวกเขาได้รับการยอมรับเพียงใดภายในประเทศของท่าน และยังขึ้นอยู่กับ [estate_satisfaction_with_icon|e] ของเหล่า [estates] ที่เกี่ยวข้อง เมื่อความพึงพอใจของ [pop] ต่ำเกินไป พวกเขาจะหันไปสนับสนุน [rebellion_with_icon|e]\n\n@hint! เรียนรู้เพิ่มเติมเกี่ยวกับ [rebels] ใน [Link('hints', 'selected_hint = hint_rebels_growing', 'คำแนะนำเกี่ยวกับกบฏ')]" 
+
+ lesson_diplomacy_2: "@culture! $game_concept_culture$"
+ lesson_diplomacy_2_desc: "พวกเราได้กล่าวไปแล้วว่าทุก [pop_with_icon|e] สังกัดอยู่กับ [culture_with_icon|e] เฉพาะ ให้เราไปตรวจสอบที่ [Link('country_culture', '', '@society_panel! แถบวัฒนธรรม')]"
+ lesson_diplomacy_open_culture: "เปิดแถบวัฒนธรรม"
+ lesson_diplomacy_3: "@culture! $game_concept_culture$"
+ lesson_diplomacy_3_desc: "โดยปกติแล้ว [country_with_icon|e] ของท่านจะเป็นที่พำนักของหลากหลาย [cultures_with_icon|e] ทุก [country] มี [primary_culture_with_icon|e] โดยที่ $game_concept_cultures$ อื่น ๆ ทั้งหมดจะมี [cultural_status|e] ที่แตกต่างกันออกไป\n\n[pops_with_icon|e] ที่สังกัดอยู่ใน [culture] ที่มี [cultural_status] ต่ำ โดยทั่วไปจะมี [pop_satisfaction_with_icon|e] ที่ต่ำกว่ามาก และจะมอบ [levies_with_icon|e] ให้แก่ท่านน้อยลง ท่านสามารถเพิ่ม [cultural_status] ของ [cultures] ภายในอาณาจักรของท่านได้โดยการจัดสรร [cultural_capacity_with_icon|e]\n\nท้ายที่สุด [pops] ใน [country] ของท่านจะ [assimilate_with_icon|e] เข้าสู่ [primary_culture] ของท่านโดยขึ้นอยู่กับปัจจัยต่าง ๆ ซึ่งสิ่งที่สำคัญที่สุดคือส่วนต่างระหว่าง [cultural_influence_with_icon|e] ของ [primary_culture] ของท่าน และ [cultural_tradition_with_icon|e] ของวัฒนธรรมพวกเขา"
+
+ lesson_diplomacy_open_works_of_art: "เปิดแถบย่อยงานศิลป์"
+ lesson_diplomacy_4: "@art_work! งานศิลป์"
+ lesson_diplomacy_4_desc: "หนึ่งในเครื่องมือที่สำคัญที่สุดที่ท่านมีเพื่อเพิ่ม [cultural_influence_with_icon|e] ของ [primary_culture_with_icon|e] คือ [works_of_art_with_icon|e]\n\nให้เรามาตรวจสอบที่ #high แถบงานศิลป์#! เป็นลำดับถัดไป เชิญไปยังแถบย่อยที่เน้นไว้"
+ lesson_diplomacy_open_culture_breakdown: "เปิดแถบย่อยการจำแนกวัฒนธรรม"
+ lesson_diplomacy_5: "@art_work! งานศิลป์"
+ lesson_diplomacy_5_desc: "[works_of_art_with_icon|e] คือผลงานที่สร้างขึ้นโดย [artists_with_icon|e] ใน [country_with_icon|e] ของท่าน ตัวอย่างเช่น [ShowArtistTypeName('painter')] อาจผลิต [ShowWorkOfArtTypeName('painting')] หรือ [ShowArtistTypeName('writer')] อาจสร้างสรรค์ [ShowWorkOfArtTypeName('novel')]\n\nเมื่อ $game_concept_work_of_art$ ถูกสร้างขึ้น [cultural_influence_with_icon|e] จำนวนหนึ่งจะถูกมอบให้แก่ [primary_culture_with_icon|e] ของท่าน\n\nเมื่อสร้างขึ้นแล้ว มันจะยังคงมอบผลประโยชน์ให้แก่ [cultural_tradition_with_icon|e] ของ $game_concept_primary_culture$ ของท่าน รวมถึงโบนัสรายเดือนให้แก่ [prestige_with_icon|e] ตาม [art_quality|e]\n\n[prestige] เป็นอีกหนึ่งค่าสถิติที่ท่านสามารถติดตามได้บน #high แถบด้านบน#! และเป็นมาตรวัดการปรากฏตัวทางวัฒนธรรมของ [country] ท่านบนเวทีโลก เหนือสิ่งอื่นใด ระดับ [prestige] ที่สูงจะช่วยท่านในด้าน [diplomacy|e] และ [integration|e]"
+ lesson_diplomacy_open_religion: "เปิดแถบศาสนา"
+ lesson_diplomacy_6: "[religion_icon] ศาสนา"
+ lesson_diplomacy_6_desc: "นอกจาก [culture_with_icon|e] แล้ว อีกหนึ่งลักษณะเฉพาะของ [pops_with_icon|e] คือ [religion_with_icon|e] ของพวกเขา ให้เราไปดูที่ [Link('country_religion', '', '@society_panel! แถบศาสนา')] เป็นลำดับถัดไป!"
+ lesson_diplomacy_7: "[religion_icon] ศาสนา"
+ lesson_diplomacy_7_desc: "ในแถบนี้ ท่านสามารถดู [primary_religion_with_icon|e] ของท่าน รวมถึง [religions_with_icon|e] อื่น ๆ ที่ปรากฏอยู่ใน [country_with_icon|e] ของท่าน\n\nท่านสามารถใช้ [religious_influence_with_icon|e] เพื่อสร้างปฏิสัมพันธ์กับ $game_concept_religion$ ของท่าน ในหลากหลายวิถีทาง ขึ้นอยู่กับความเชื่อเฉพาะของ $game_concept_country$ ของท่าน\n\nเช่นเดียวกับ [culture_with_icon|e] ทุก $game_concept_religions$ ใน $game_concept_country$ จะมี [religious_status|e] ที่เกี่ยวข้องด้วย"
+
+ lesson_diplomacy_8: "@population! ประชากร"
+ lesson_diplomacy_8_desc: "ลำดับถัดไป ให้เรามาตรวจสอบที่ #high แถบประชากร#!"
+ lesson_diplomacy_open_people: "เปิดแถบประชากร"
+ lesson_diplomacy_8b: "@population! ประชากร"
+ lesson_diplomacy_8b_desc: "ในที่นี้ ท่านจะพบข้อมูลเกี่ยวกับ [pops_with_icon|e] ใน [country_with_icon|e] ของท่าน $game_concept_pops$ ของท่านพำนักอยู่ใน [location_with_icon|e] เฉพาะ และถูกระบุผ่าน [culture_with_icon|e], [religion_with_icon|e] และ [pop_type|e]\n\nท่านจะพบข้อมูลเกี่ยวกับ [rebels_with_icon|e] ในแผงนี้ด้วย โดยทั่วไปแล้ว $game_concept_rebels$ สามารถจัดการได้โดยการเพิ่ม [pop_satisfaction|e] ของพวกเขา"
+
+ lesson_diplomacy_8c: "@characters! ตัวละคร"
+ lesson_diplomacy_8c_desc: "ให้เราไปส่องดู [characters_with_icon|e] เป็นลำดับถัดไป เชิญไปยัง #high แถบตัวละคร#!"
+ lesson_diplomacy_open_character: "เปิดแถบย่อยตัวละคร"
+ lesson_diplomacy_8d: "@characters! ตัวละคร"
+ lesson_diplomacy_8d_desc: "ในระหว่างการดำเนินเกมของท่าน ท่านจำต้องปฏิสัมพันธ์กับ [characters_with_icon|e] จำนวนมาก ซึ่งเป็นบุคคลสำคัญที่ท่านสามารถจ้างงานใน [roles|e] ต่าง ๆ\n\nในแถบนี้ ท่านสามารถเห็นรายชื่อของ [characters] ทั้งหมดที่ปรากฏอยู่ในราชสำนักของท่าน และ [role] ปัจจุบันของพวกเขา ตัวละครมีความสามารถ [abilities_with_icon|e] ที่จะกำหนดประสิทธิภาพในการปฏิบัติหน้าที่ใน [roles] ต่าง ๆ:\n\n[adm_with_icon|e]\n[dip_with_icon|e]\n[mil_with_icon|e]\n\nนอกเหนือจาก 3 [abilities] พื้นฐาน [characters] อาจพัฒนา [traits|e] เฉพาะที่ทำให้พวกเขามีความสามารถมากขึ้น ในงานบางอย่าง [characters] ยังสังกัดอยู่กับ [estate_with_icon|e] และบางคนจะสังกัดอยู่ใน [dynasty_with_icon|e] ที่มีชื่อเสียง\n\n#weak ท่านยังสามารถ @rightclick!#high คลิกขวา#! บนชื่อหรือภาพเหมือนของ [character] ที่ใดก็ได้ในเกมเพื่อเปิด #high เมนูบริบท#!#!"
+
+ lesson_diplomacy_8e: "[character_icon] ตัวละคร"
+ lesson_diplomacy_8e_desc: "พวกเราได้เห็นการใช้งาน [artists] ใน [court] ของท่านไปแล้ว แต่ [character_with_icon|e] ที่สำคัญที่สุดของท่านคือ [ruler_with_icon|e]\n\nให้เรากลับไปยังแผงการปกครองอีกครั้ง เพื่อส่องดูหลักอภิบาลอันสูงส่ง"
+
+ lesson_admin_1: "[ruler_icon] ประมุข"
+ lesson_admin_1_desc: "นี่คือ [ruler_with_icon|e] ของท่าน ซึ่งเป็น [character_with_icon|e] ที่สำคัญที่สุด [abilities_with_icon|e] ของ [ruler] มีผลกระทบอย่างมีนัยสำคัญต่อ [country_with_icon|e] ของท่าน ท่านสามารถตรวจสอบผลลัพธ์ได้ โดยการเลื่อนเมาส์วางเหนือสิ่งเหล่านั้น\n\nในภาพรวมนี้ ท่านยังสามารถเห็น [consort_with_icon|e], [heir_with_icon|e] และ [regent_with_icon|e] ของท่าน หากท่านมีผู้ครอง [roles|e] เหล่านั้นอยู่"
+ lesson_admin_open_government: "เปิดแผง $game_concept_government$"
+
+ lesson_admin_9: "[cabinet_icon] $game_concept_cabinet$"
+ lesson_admin_9_desc: "เมื่อกล่าวถึง [characters_with_icon|e] ที่สำคัญ ให้เรามาสนทนาถึงหนึ่งในเครื่องมือ ที่ทรงพลังที่สุดที่ท่านมีเพื่อปกครอง [country_with_icon|e] นั่นคือ [cabinet_with_icon|e] ของท่าน\n\nเชิญไปยังแถบย่อยที่ปรึกษาที่เน้นไว้"
+ lesson_admin_open_cabinet: "เปิดแถบย่อยที่ปรึกษา"
+
+ lesson_admin_10: "[cabinet_icon] $game_concept_cabinet$"
+ lesson_admin_10_desc: "นี่คือ [cabinet_with_icon|e] ของท่าน ประกอบด้วย [cabinet_seats_with_icon|e] หลายตำแหน่ง ซึ่งสามารถเติมเต็มได้โดย [characters_with_icon|e] ที่จะทำหน้าที่เป็น [cabinet_members_with_icon|e] ท่านสามารถมอบหมายงานให้ $game_concept_cabinet_members$ ด้วย [cabinet_actions_with_icon|e] ที่หลากหลาย อาทิ [ShowCabinetActionName('increase_control_province')] หรือ [ShowCabinetActionName('develop_province')]\n\n$game_concept_cabinet_actions$ ขึ้นอยู่กับหนึ่งในสาม [abilities_with_icon|e] โดยที่ $game_concept_abilities$ ของ [ruler_with_icon|e] และ [cabinet_member] ที่ได้รับมอบหมายให้ปฏิบัติหน้าที่ จะส่งผลต่ออิทธิพลของการออกคำสั่งนั้น\n\nตัวอย่างเช่น การออกคำสั่งอย่าง [ShowCabinetActionName('change_societal_values')] จะก้าวหน้าเร็วขึ้นหาก [dip_with_icon|e] ของ $game_concept_cabinet_member$ ที่ได้รับมอบหมายนั้นสูง [cabinet_efficiency_with_icon|e] โดยรวมของ [country_with_icon|e] จะส่งผลต่อความเร็ว และประสิทธิภาพของการออกคำสั่งด้วยเช่นกัน\n\n@hint! ท่านสามารถเรียนรู้เกี่ยวกับที่ปรึกษาได้ใน [Link('hints', 'selected_hint = hint_has_possible_cabinet_action', 'คำแนะนำเกี่ยวกับที่ปรึกษา')]"
+
+ lesson_admin_5: "[estates_icon] $game_concept_estates$"
+ lesson_admin_5_desc: "ให้เราไปยัง #high แถบย่อยฐานันดร#! ท่านสามารถดู และปฏิสัมพันธ์กับ $game_concept_estates$ ต่าง ๆ ใน [country_with_icon|e] ของท่านได้โดยการเปิด #high แถบย่อยฐานันดร#! ภายในแถบ $game_concept_country$ ของแผง [government|e]"
+
+ lesson_admin_6: "[government_type_icon] การปกครอง"
+ lesson_admin_6_desc: "ทุก [country_with_icon|e] ล้วนแตกต่างกันใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! ลักษณะทางการเมืองของ [country] ของท่าน จะขึ้นอยู่กับ [government_type_with_icon|e] เป็นประการสำคัญ\n\nในฐานะ [Player.GetGovernment.GetGovernmentType.GetName] การดำเนินงานของ [country] ของท่านย่อมแตกต่างจากเพื่อนบ้าน ในแง่มุมที่สำคัญ ยิ่งไปกว่านั้น ลักษณะและโครงสร้างทางการเมืองของ [country] ใด ๆ ย่อมขึ้นอยู่กับการตั้งค่า [government_reforms_with_icon|e], [privileges_with_icon|e] และ [laws_with_icon|e]\n\nการแก้ไขสิ่งใดในสามอย่างนี้มักมาพร้อมกับราคาที่ต้องจ่าย ด้วย [stability_with_icon|e] อันมหาศาล\n\nให้เราไปดูว่าสิ่งเหล่านั้นอยู่ที่ใด เริ่มจากที่คุ้นเคยกันดีอย่าง [Link('government', 'tabcontent = estates', '@government_panel! แถบย่อยฐานันดร')]"
+
+ lesson_admin_6b: "[government_reform_icon] ร่างปฏิรูปการปกครอง"
+ lesson_admin_6b_desc: "[government_reforms_with_icon|e] ของท่านคือหนึ่งในลักษณะเฉพาะที่บ่งบอกตัวตนของ [country_with_icon|e] มากที่สุด มักจะมีผลกระทบอย่างมาก ดังนั้นการตั้งค่าสิ่งเหล่านี้ จึงควรเป็นสิ่งแรก ๆ ที่ท่านทำเมื่อเริ่มเกมใหม่\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [government_reforms] ได้ใน [Link('hints', 'selected_hint = hint_has_possible_reform', 'คำแนะนำเกี่ยวกับร่างปฏิรูปการปกครอง')]"
+
+ lesson_admin_open_country: "เปิดแถบประเทศ"
+ lesson_admin_open_estates: "เปิดแถบย่อยฐานันดร"
+
+ lesson_admin_6c: "[privileges_icon] เอกสิทธิ์"
+ lesson_admin_6c_desc: "พวกเราได้สนทนาเรื่อง [privileges_with_icon|e] ไปแล้วเมื่อตอนที่กล่าวถึง [estates_with_icon|e] นอกเหนือจากผลกระทบต่อ [estate_satisfaction_with_icon|e] และ [estate_power_with_icon|e] แล้ว [privileges] ยังส่งผลกระทบอย่างลึกซึ้งต่อวิธีการเล่น [country_with_icon|e] ของท่าน ซึ่งมักจะเปิดความเป็นไปได้ใหม่ ๆ หรือจำกัดเสรีภาพในการออกคำสั่งของท่าน"
+
+ lesson_admin_open_laws: "เปิดแถบย่อยกฎหมาย"
+ lesson_admin_11: "[laws_icon] $game_concept_laws$"
+ lesson_admin_11_desc: "ประการสุดท้าย ทุกประเทศเริ่มต้นด้วยชุด [laws_with_icon|e] ที่แตกต่างกัน เชิญท่านไปยัง #high แถบย่อยกฎหมาย#! ใน #high แถบประเทศ#!"
+
+ lesson_admin_12: "[law_icon] $game_concept_laws$"
+ lesson_admin_12_desc: "[laws_with_icon|e] มีอยู่หลากหลายหมวดหมู่และช่วยให้ท่านปรับแต่ง [country_with_icon|e] ของท่าน ทุก [law] ประกอบด้วย [policies_with_icon|e] หลายประการให้เลือกใช้\n\nตัวอย่างเช่น ท่านอาจเลือกใช้ [ShowPolicyName('no_censorship')] เป็น $game_concept_policy$ ที่มีผลสำหรับ $game_concept_law$ [ShowLawName('censorship')] ซึ่งจะส่งผลที่หลากหลายทั้งในทางลบ และทางบวก ความเร็วที่ท่านสามารถเปลี่ยน $game_concept_policy$ ขึ้นอยู่กับ [legislative_efficiency_with_icon|e] ของท่าน\n\n#weak $game_concept_laws$ สามารถเปลี่ยนได้ทุกเมื่อโดยต้องแลกด้วย [gold_with_icon|e] และ [stability_with_icon|e] ทว่าโดยปกติแล้วการรอให้มีการประชุม [parliament_with_icon|e] จะเป็นการชาญฉลาดกว่า#!"
+ lesson_admin_open_values: "เปิดแถบค่าความนิยม"
+
+ lesson_admin_13: "[societal_value_icon] $game_concept_societal_values$"
+ lesson_admin_13_desc: "ยามนี้ ท่านสามารถประกาศใช้ [government_reforms_with_icon|e], [laws_with_icon|e] และ [privileges_with_icon|e] ใน [country_with_icon|e] ของท่านได้ตามปรารถนา ตราบเท่าที่ท่านสามารถแบกรับราคาของ [stability_with_icon|e] ทว่าบางสิ่งมิอาจเปลี่ยนได้ในชั่วข้ามคืน และสังคมนั้นมักจะปรับตัวต่อกฎหมายใหม่ได้ช้าอย่างยิ่ง\n\nเพื่อแสดงถึงเอกลักษณ์เชิงโครงสร้างที่ลึกซึ้งยิ่งขึ้น ของประเทศและราษฎรของท่าน เรามี [societal_values_with_icon|e] ให้เราไปพิจารณาสิ่งเหล่านั้นกันเถิด"
+
+ lesson_admin_14: "[societal_value_icon] $game_concept_societal_values$"
+ lesson_admin_14_desc: "[societal_values_with_icon|e] ของ [country_with_icon|e] แสดงถึงขนบธรรมเนียมที่หยั่งรากลึกของประชากร ความเฉื่อยชาของสถาบันต่าง ๆ และรอยประทับที่มีต่อลักษณะนิสัยของผู้อยู่อาศัย สิ่งเหล่านี้เปลี่ยนแปลงอย่างช้ ๆ ตามกาลเวลา และปรับตัวตามลักษณะของกฎหมาย\n\n[reforms_with_icon|e], [privileges_with_icon|e], [laws_with_icon|e] และการออกคำสั่งเฉพาะที่ท่านทำในระหว่างการปกครอง จะทำให้ [societal_values] ค่อย ๆ เคลื่อนเข้าสู่ค่าเป้าหมาย\n\n#weak ตัวอย่างเช่น การมอบ [privileges] บางประการให้แก่ [GetEstateName('nobles_estate')] ของ $game_concept_country$ จะผลักดันประเทศของท่านไปสู่ [ShowSocietyDirectionName('aristocracy')]#!"
+
+ lesson_admin_15: "[crown_power_icon] $game_concept_crown_power$"
+ lesson_admin_15_desc: "การคานอำนาจของ [GetEstateName('crown_estate')] ต่อเหล่า [estates_with_icon|e] อื่น ๆ คือหนึ่งในรากฐานสำคัญของการปกครองใน @caesar!#high ยูโรปา ยูนิเวอร์ซาลิส 5#!\n\n[crown_power_with_icon|e] ของท่านขึ้นอยู่กับค่าเฉลี่ยของ [control_with_icon|e] ใน [locations] ทั้งปวงของท่านเป็นหลัก และมันจะลดลงตาม [privileges_with_icon|e] ของเหล่าฐานันดร ทั้งนี้ [government_reforms_with_icon|e], [laws_with_icon|e] และ [societal_values_with_icon|e] จำนวนมากล้วนส่งผลกระทบต่อสิ่งนี้เช่นกัน\n\nการรักษา [crown_power] ให้สูงไว้นั้นสำคัญยิ่ง เพราะมิมเพียงแต่ช่วยเพิ่ม [cabinet_efficiency_with_icon|e] และแรงสนับสนุนของท่านใน [parliament_with_icon|e] เท่านั้น แต่มันยังกำหนดสัดส่วนของ [trade_income_with_icon|e] ที่จะไหลเข้าสู่ [treasury_with_icon|e] ของท่านโดยตรง"
+
+ lesson_economy_1: "@adm! บทสรุปเศรษฐกิจ"
+ lesson_economy_1_desc: "พวกเรากำลังเริ่มต้น @adm! #high บทสรุปเศรษฐกิจ#! ณ บัดนี้ พวกเราจะดำดิ่งลงไปในระบบเศรษฐกิจของ #high ยูโรปา ยูนิเวอร์ซาลิส 5#! ให้ลึกซึ้งยิ่งขึ้น โดยเริ่มจากรากฐานของมัน นั่นคือ [markets_with_icon|e]"
+
+ lesson_economy_2: "[market_icon] $game_concept_markets$"
+ lesson_economy_2_desc: "ที่นี่ท่านจะเห็นรายชื่อของ [markets_with_icon|e] ที่ [country_with_icon|e] ของท่านมีบทบาทอยู่ ในขณะที่บนแผนที่ท่านจะเห็น [markets] ทั้งหมดในโลกที่รู้จัก ทุก [location_with_icon|e] สังกัดอยู่กับ [market] แห่งหนึ่ง ซึ่งเป็นที่ที่พวกเขาส่ง [goods_with_icon|e] ที่ผลิตได้ไปขาย และซื้อ [goods] ที่พวกเขาจำเป็นต้องใช้\n\nหลายสิ่งในเกมนี้ล้วนต้องการสินค้า: [pops_with_icon|e] ต้องการ [goods] เพื่อดำรงชีพ, [constructions_with_icon|e] ต้องการ [goods] เพื่อให้รุดหน้า, [buildings_with_icon|e] ต้องการ [goods] เพื่อให้ทำงานได้, [armies_with_icon|e] ต้องการ [goods] เพื่อทำการรบ\n\nตัวอย่างเช่น ท่านสามารถเห็นได้บนแผนที่ว่า [capital_with_icon|e] เมืองหลวงของท่าน [Player.GetCapital.GetName] สังกัดอยู่กับ [market_icon][Player.GetCapital.GetMarket.GetName] ดังนั้นสิ่งใดก็ตามที่ท่านสร้างในที่แห่งนั้นจะใช้ [goods] จาก [market] ดังกล่าว\n\n#weak ท่านยังสามารถ @rightclick!#high คลิกขวา#! บนชื่อหรือบัตร [market] ที่ใดก็ได้ในเกมเพื่อเปิด #high เมนูบริบท#!#!"
+
+ lesson_economy_3: "[market_icon] $game_concept_markets$"
+ lesson_economy_3_desc: "ผลผลิตจาก [locations_with_icon|e] ทั้งหมดจะถูกขายในทุก ๆ เดือนให้แก่ [stockpile_with_icon|e] ของ [market_with_icon|e] เพื่อสร้าง [wealth_with_icon|e] ในทางกลับกัน ทุก [locations] จะพยายามซื้อ [goods_with_icon|e] ที่จำเป็นจาก [market] ของตน ตามลำดับของ [market_access_with_icon|e] ส่วนต่างระหว่าง [supply_with_icon|e] และ [demand_with_icon|e] ของสินค้าหนึ่งในตลาดจะส่งผลต่อ [market_price_with_icon|e]\n\nโปรดทราบว่า [markets] นั้นอยู่เหนือพรมแดนของ [country_with_icon|e] ผลผลิตจากทำเลของท่านจะมุ่งตรงสู่ [market] ที่เกี่ยวข้องเสมอ ดังนั้นทำเลต่างแดนในตลาดเดียวกันอาจซื้อ [goods] เหล่านั้นตัดหน้าทำเลของท่านเอง หากพวกเขามี [market_access] ที่สูงกว่า\n\n[market_access_with_icon|e] ของทำเลขึ้นอยู่กับระยะห่างจาก [market_center_with_icon|e] และท่านสามารถปรับปรุงมันได้ด้วย [roads_with_icon|e] เช่นเดียวกับ [proximity_with_icon|e] โดยทั่วไปแล้วทำเลมักจะสังกัดอยู่กับ [market] ที่ใกล้ที่สุด ซึ่งก็คือแห่งที่พวกเขามี [market_access] สูงกว่า\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับตลาดได้ใน [Link('hints', 'selected_hint = hint_markets', 'คำแนะนำเกี่ยวกับตลาด')]"
+
+ lesson_economy_4: "[trade_icon] $game_concept_trade$"
+ lesson_economy_4_desc: "ยามนี้ [markets_with_icon|e] มิเคยถูกตัดขาดจากกันโดยสิ้นเชิง การเคลื่อนย้าย [goods_with_icon|e] ระหว่างสองตลาดนั้นเรียกว่า [trade_with_icon|e]\n\n[countries_with_icon|e] สามารถเคลื่อนย้าย [goods] ระหว่างตลาดได้โดยใช้ [merchant_capacity_with_icon|e] ของตน ซึ่งจะสร้างผลกำไร (หรือขาดทุน) ในกระบวนการดังกล่าว ยิ่งไปกว่านั้นเหล่า @burghers! [ShowPopTypeName('burghers')] ที่อาศัยอยู่ในตลาดจะดำเนินการ [trade] ด้วยตนเองอีกทอดหนึ่ง\n\nตามค่าเริ่มต้น การค้าจะถูกตั้งค่าเป็น @automation! #high อัตโนมัติ#! ในทุกตลาด ซึ่งหมายความว่า [merchant_capacity] ใด ๆ ที่ท่านมีในตลาดนั้นจะถูกใช้งาน โดยอัตโนมัติกับข้อเสนอที่ดีที่สุด เราขอแนะนำให้ท่านปล่อยให้การค้าดำเนินไป โดยอัตโนมัติจนกว่าท่านจะมีประสบการณ์มากขึ้น\n\nเมื่อถึงเวลา ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับการค้าได้ที่นี่:\n$TAB$[Link('hints', 'selected_hint = hint_trade', '@hint! คำแนะนำเกี่ยวกับการค้า')]"
+
+ lesson_economy_5: "[food_icon] $game_concept_food$"
+ lesson_economy_5_desc: "ประการสุดท้าย [pops_with_icon|e] ยังมีการผลิตและบริโภค [food_with_icon|e] ด้วย\n\n[food] ถูกผลิตขึ้นหลัก ๆ โดย @laborers! [ShowPopTypeName('laborers')] ที่ทำงานใน [rgo_with_icon|e] ที่มี [food_raw_materials|e] อาทิ [ShowGoodsName('wheat')] แม้ว่าเหล่า @peasants! [ShowPopTypeName('peasants')] ที่ทำ [subsistence_agriculture_with_icon|e] จะช่วยสมทบในจำนวนเล็กน้อยก็ตาม\n\nทุก [market_with_icon|e] มี [food_stockpile_with_icon|e] ซึ่งจะเพิ่มขึ้นหรือลดลงในทุกเดือน หากตลาดใดขาดแคลน [food] ประชากรจะประสบกับ [starvation_with_icon|e] ท่านสามารถดูงบดุลเสบียงของตลาดได้ในบัตรตลาด\n\nท่านสามารถเรียนรู้เกี่ยวกับวิธีการทำงาน ของการจัดหาเสบียงได้ใน [Link('hints', 'selected_hint = hint_food', '@hint! คำแนะนำเกี่ยวกับเสบียง')]"
+
+ lesson_admin_21: "[good_icon] $game_concept_goods$"
+ lesson_admin_21_desc: "ให้เราไปสำรวจ [goods|e] ใน [markets_with_icon|e] ของท่านกันต่อเถิด!\n\nในการนี้ ท่านสามารถคลิกที่ปุ่ม [good_icon|e] [goods] ใน #high บัตรตลาด#! [market_icon] ซึ่งจะนำท่านไปยังแถบสินค้าของแผงการผลิต โดยที่กรองข้อมูลตามตลาดแห่งนี้ไว้แล้ว"
+
+ lesson_admin_22: "[good_icon] $game_concept_goods$"
+ lesson_admin_22_desc: "ที่นี่ท่านจะเห็น [goods_with_icon|e] ทั้งหมดใน [market_with_icon|e] แห่งหนึ่ง\n\n#weak ท่านสามารถนำการกรองใน #high บัตรตลาด#! [market_icon] ออกเพื่อดูสินค้าใน [country] ทั้งหมดของท่าน รวมถึงตลาดทุกแห่งที่ท่านถือครอง [locations] อยู่#!\n\nท่านสามารถเพิ่ม [supply_with_icon|e] ของสินค้าใด ๆ ในตลาดได้ผ่านสามวิถีทาง:\n\n$BULLET$ [rgo_icon] การขยาย [rgo|e]\n[rgo] สามารถขยายเพื่อผลิต [raw_materials_with_icon|e] ได้ หากท่าน [own|e] ทำเล [locations_with_icon|e] ที่เหมาะสม\n\n$BULLET$ [building_icon|e] การก่อสร้าง [buildings|e]\nแม้ว่าบางแห่งจะสามารถผลิต [raw_materials] ได้ ทว่า [buildings] นั้นโดดเด่นในการแปรรูป [raw_materials] ให้กลายเป็น [produced_goods_with_icon|e]\n\n$BULLET$ [import_icon|e] การนำเข้าผ่าน [trade_with_icon|e]\nท่านสามารถนำเข้า [goods] ที่จำเป็นจากตลาดอื่นได้เสมอ หากท่านมี [merchant_capacity_with_icon|e] ที่ว่างอยู่\n\n#weak ตัวอย่างเช่น ท่านอาจสร้าง $game_concept_rgo$ เพื่อรวบรวม @wool! [ShowGoodsName('wool')] จากนั้นจึงสร้าง $game_concept_building$ ประเภท @cloth_guild![ShowBuildingTypeName('cloth_guild')] เพื่อแปรรูปขนสัตว์นั้นให้เป็น @cloth! [ShowGoodsName('cloth')] ซึ่งถูกใช้งานโดย [buildings], [pops] และ [armies] อื่น ๆ อีกมากมาย#!"
+
+ lesson_admin_25: "[building_icon] $game_concept_buildings$"
+ lesson_admin_25_desc: "สุดท้ายนี้ ให้เรามาสนทนาเรื่อง [buildings_with_icon|e]\n\nให้เราไปดูรายชื่อทั้งหมดของ [buildings] ที่ท่านมี หรือที่ท่านสามารถสร้างได้ใน [country_with_icon|e] ท่านสามารถเข้าถึงได้โดยการคลิกที่ #high แถบสิ่งปลูกสร้าง#! ของแผงการผลิต\n\nหรืออีกทางหนึ่ง ท่านสามารถกดปุ่ม [building_icon] สิ่งปลูกสร้าง ใน #high บัตรตลาด#! [market_icon] เพื่อดูรายชื่อสิ่งปลูกสร้างในตลาดเฉพาะแห่งนั้น"
+
+ lesson_admin_26: "[building_icon] $game_concept_buildings$"
+ lesson_admin_26_desc: "ต่างจาก [rgo_with_icon|e] เพราะ [buildings_with_icon|e] ทั้งหมดล้วนต้องการ [goods_with_icon|e] นำเข้าเพื่อให้ทำงานได้ แต่มีเพียงบางแห่งเท่านั้นที่ผลิตสินค้า และสร้าง [wealth_with_icon|e] ออกมา\n\nสิ่งปลูกสร้างอื่น ๆ มีวัตถุประสงค์ที่ต่างออกไป อาทิ การจัดหา [manpower_with_icon|e], การเปิดให้เกณฑ์ [regulars_with_icon|e], การปรับปรุง [crown_power_with_icon|e] ของท่าน หรือการเพิ่ม [control_with_icon|e] ให้แก่ [location_with_icon|e] ของมัน\n\n$game_concept_buildings$ เช่นเดียวกับ [rgo_with_icon|e] จะมีราคาในการ [construction_with_icon|e] และต้องใช้เวลาในเกมเพื่อสร้าง เมื่อสร้างเสร็จแล้ว ทุก [building] จำต้องเข้าถึงสินค้า นำเข้าจากตลาดของตนเพื่อให้ทำงานได้อย่างเหมาะสม\n\n#weak โปรดจำไว้ว่าประเทศ [country|e] ของท่านอาจมีตลาดมากกว่าหนึ่งแห่ง #high บัตรตลาด#! [market_icon] ที่อยู่ด้านบนของ #high แผงการผลิต#! ช่วยให้ท่านกรองเนื้อหาตามรายตลาดได้#!\n\nท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับสิ่งปลูกสร้างได้ ในคำแนะนำประกอบที่เกี่ยวข้อง:\n[Link('hints', 'selected_hint = hint_lack_pop_promotion_to_fill_buildings', '@hint! สิ่งปลูกสร้างที่ขาดพนักงาน')]\n[Link('hints', 'selected_hint = hint_unprofitable_buildings', '@hint! สิ่งปลูกสร้างที่มิทำกำไร')]\n[Link('hints', 'selected_hint = hint_has_buildings_missing_input', '@hint! สิ่งปลูกสร้างที่ขาดสินค้านำเข้า')]"
+ 
+ lesson_admin_27: "[mission_icon] $game_concept_missions$"
+ lesson_admin_27b: "[mission_icon] $game_concept_missions$"
+ lesson_admin_27_desc: "ประการสุดท้าย ให้เรามาพิจารณา [missions_with_icon|e]"
+
+ lesson_admin_28: "[mission_icon] $game_concept_missions$"
+ lesson_admin_28_desc: "[missions_with_icon|e] คือชุดภารกิจที่จะช่วยนำทางว่ามีสิ่งใดบ้าง ที่ท่านสามารถกระทำได้ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! เกมนี้ช่างกว้างขวางนัก และมีหลายสิ่งให้ต้องเรียนรู้ แต่นั่นคือส่วนหนึ่งของความสำราญ!\n\nท่านเพิ่งเสร็จสิ้นบทนำ #high รูปแบบการเล่นเศรษฐกิจ#! @adm! ซึ่งหมายความว่ายามนี้ท่านสามารถเข้าถึง $game_concept_missions$ ที่จะช่วยให้ท่านดำดิ่งลงสู่วิธีการใช้งานแผงควบคุม และกลไกต่าง ๆ ที่เราเพิ่งได้กล่าวถึงไป\n\nเพื่อช่วยให้ท่านก้าวสู่ขั้นถัดไปได้ง่ายขึ้น เราได้เตรียม $game_concept_missions$ บางส่วนไว้เพื่อเป็นการเริ่มต้นให้แก่ท่าน"
+
+ lesson_admin_29: "@caesar! สรุปทิ้งท้าย"
+ lesson_admin_29_desc: "ยอดเยี่ยม! ยามนี้ ท่านมี [missions_with_icon|e] บางประการที่สามารถเข้าถึงได้ภายใน #high แถบภารกิจ#!\n\nเราขอแนะนำให้ท่านดำเนินการตามภารกิจเหล่านั้น เพื่อสร้างความมั่นคง และขยายสิ่งที่ท่านเพิ่งได้เรียนรู้ไป แต่จำไว้ว่าท่านสามารถเริ่มบทสรุปอื่น ๆ และ [missions] ที่เกี่ยวข้องได้ทุกเมื่อจาก #high แถบภารกิจ#!\n\nขอให้โชคดีในโลกกว้าง!"
+
+ lesson_admin_open_economy: "เปิดแผงเศรษฐกิจ"
+ lesson_admin_open_balance: "เปิดแถบงบดุล"
+ lesson_admin_open_markets: "เปิดแถบตลาด"
+ lesson_admin_open_trading: "เปิดแถบการค้า"
+ lesson_admin_open_production: "เปิดแผงการผลิต"
+ lesson_admin_open_goods: "เปิดแถบสินค้า"
+ lesson_admin_open_food: "เปิดแถบเสบียง"
+ lesson_admin_open_buildings: "เปิดแถบสิ่งปลูกสร้าง"
+ lesson_admin_open_missions: "เปิดแถบภารกิจ"
+ lesson_admin_has_mission_active: "เริ่มภารกิจเศรษฐกิจ"
+
+
+ ############ DIPLOMACY ############
+
+ lesson_diplomacy_9: "@diplomacy! การทูต"
+ lesson_diplomacy_9_desc: "ทว่ามิใช่กิจการบ้านเมืองทุกประการ จักอุบัติขึ้นเพียงภายในขอบเขตแดนของพวกเรา ให้เรากล่าวถึง [diplomacy_with_icon|e] ในลำดับถัดไป โดยเริ่มจาก #high แถบความสัมพันธ์#! ใน @diplomacy_panel![Link('diplomacy', '', 'แผงการทูต')]"
+ lesson_diplomacy_open_diplomacy: "เปิดแผงการทูต"
+ lesson_diplomacy_open_relations: "เปิดแถบความสัมพันธ์"
+ lesson_diplomacy_open_current_relations: "เปิดแถบย่อยความสัมพันธ์ปัจจุบัน"
+ lesson_diplomacy_10: "@diplomacy! การทูต"
+ lesson_diplomacy_10_desc: "มิว่าท่านจักแผ่ขยายแสนยานุภาพเพียงใด ท่านย่อมจำต้องพึ่งพา [diplomacy_with_icon|e] หากประสงค์จักดำรงสถิตอยู่รอด ผ่านพ้นผันแปรแห่งยุคสมัย เนื่องด้วยท่านจำต้องลงนามใน [alliances_with_icon|e] เพื่อปกปักษ์ตนจากอริราชศัตรู หรือเจรจาขอ [peace_with_icon|e] ภายหลังเสร็จสิ้น [war_with_icon|e] อันยาวนาน\n\nมีสองประการสำคัญที่ควรพิจารณาในที่นี้:\n\n$BULLET$ท่านจำต้องใช้ [diplomats_with_icon|e] เพื่อดำเนิน [diplomatic_action_with_icon|e] กับ [countries_with_icon|e] อื่น ๆ อาทิ [improve_relations_with_icon|e] สร้าง [spy_networks_with_icon|e] หรือประกาศ [wars_with_icon|e] ท่านสามารถดูจำนวน [diplomats] ปัจจุบันได้ที่ #high แถบด้านบน#!\n\n$BULLET$การมี [treaties_with_icon|e] ทางการทูตกับ [countries] อื่น ๆ อาทิ [alliance] หรือ [subject_with_icon|e] จักต้องใช้ [diplomatic_capacity_with_icon|e] จำนวนหนึ่ง ท่านสามารถเพิ่ม [diplomatic_capacity] ที่มีอยู่ได้ด้วยการจ่าย [gold_with_icon|e] จากแผงงบประมาณ"
+ lesson_diplomacy_11: "@diplomacy! ความสัมพันธ์ปัจจุบัน"
+ lesson_diplomacy_11_desc: "ให้เรามุ่งไปยัง #high แถบย่อยความสัมพันธ์ปัจจุบัน#! เพื่อดำดิ่งสู่รายละเอียดว่า [country_with_icon|e] ของท่านมีพันธะใดอยู่บ้าง"
+ lesson_diplomacy_12: "@diplomacy! ความสัมพันธ์ปัจจุบัน"
+ lesson_diplomacy_12_desc: "#high แถบย่อยความสัมพันธ์ปัจจุบัน#! ประกอบด้วยข้อมูลเกี่ยวกับ [treaties_with_icon|e] ทั้งปวงที่ท่านได้ลงนามกับ [countries_with_icon|e] อื่น ๆ รวมถึง [international_organizations_with_icon|e] ที่ท่านสังกัดอยู่\n\nหากท่านมี [subjects_with_icon|e] ท่านจะสามารถจัดการพวกเขาได้จากแผงควบคุมนี้"
+ lesson_diplomacy_13: "[country_icon] ประเทศที่รู้จัก"
+ lesson_diplomacy_13_desc: "ลำดับถัดไป ให้เรามาตรวจสอบ [countries_with_icon|e] ที่ท่านรู้จัก"
+ lesson_diplomacy_open_known_countries: "เปิดแถบย่อยประเทศที่รู้จัก"
+ lesson_diplomacy_14: "[country_icon] ประเทศที่รู้จัก"
+ lesson_diplomacy_14_desc: "จาก #high แถบย่อย#! นี้ ท่านสามารถดู [countries_with_icon|e] ทั้งหมดที่ท่านได้ [discovered_with_icon|e] โดยตามค่าเริ่มต้นจะมีการกรองข้อมูล เพื่อให้ท่านเห็นเพียง $game_concept_countries$ ที่อยู่ใน [diplomatic_range_with_icon|e] ของท่านเท่านั้น\n\nนี่ยังเป็นจุดที่ดีในการเรียกดู [great_power_score_with_icon|e] ของท่าน หาก $game_concept_great_power_score$ ของท่านอยู่ในกลุ่มที่สูงที่สุดในโลก ท่านจะถือว่าเป็น [great_power_with_icon|e] ซึ่งจะช่วยให้ท่านสามารถแผ่อิทธิพล เหนือประเทศเพื่อนบ้านได้มากขึ้น"
+ lesson_diplomacy_15: "[international_organizations_icon] องค์การ"
+ lesson_diplomacy_15_desc: "ให้เรามาตรวจสอบ [international_organizations_with_icon|e] กันเถิด!"
+ lesson_diplomacy_open_known_orgs: "เปิดแถบย่อยองค์การ"
+ lesson_diplomacy_16: "[international_organization_icon] องค์การ"
+ lesson_diplomacy_16_desc: "จากที่นี่ ท่านสามารถเรียกดู [international_organization_icon] [international_organizations|e] ทั้งมวลในโลก ท่ามกลางองค์การเหล่านั้นมี อาทิ [GetUniqueInternationalOrganization('hre').GetName], [GetUniqueInternationalOrganization('catholic_church').GetName] หรือ [personal_unions_with_icon|e]\n\nการดำเนินงานใดที่ท่านสามารถกระทำได้ภายใน $game_concept_international_organizations$ ที่ท่านเป็นส่วนหนึ่งนั้น ขึ้นอยู่กับตัวองค์การเอง รวมถึง [special_status|e] ใด ๆ ที่ท่านอาจถือครองอยู่ภายในองค์การนั้น"
+ lesson_diplomacy_17: "[country_icon] ประเทศต่างแดน"
+ lesson_diplomacy_17_desc: "ให้เราใช้เวลาครู่หนึ่งเพื่อสนทนาเรื่อง [countries_with_icon|e] ต่างแดน เชิญท่าน @leftclick!#high คลิก#! บนประเทศในแผนที่เพื่อเปิดแผงควบคุมขึ้นมา\n\n#weak ท่านอาจจำต้องขยายภาพออกเพื่อเลือก [country] เนื่องจากท่านจะเลือกได้เพียง [locations_with_icon|e] เมื่อขยายภาพเข้าใกล้#!"
+ lesson_diplomacy_open_foreign_country: "เปิดแผงควบคุมประเทศต่างแดนโดยการ @leftclick!#high คลิก#! ที่ประเทศบนแผนที่"
+ lesson_diplomacy_18: "[countries_icon] ประเทศต่างแดน"
+ lesson_diplomacy_18_desc: "ที่นี่ท่านจะเห็นภาพรวมของ [country_with_icon|e] ต่างแดน รวมถึง [ruler_with_icon|e] แถบ [diplomacy_with_icon|e] จะมีลักษณะคล้ายคลึงกับส่วนความสัมพันธ์ปัจจุบัน ที่เราได้สนทนากันไปก่อนหน้า และแสดงสิ่งต่าง ๆ อาทิ [allies_with_icon|e], [rivals_with_icon|e] และ [subjects_with_icon|e]\n\nสำหรับตอนนี้ ให้เราพิจารณาบัตรการทูตที่เน้นไว้ ซึ่งประกอบด้วยปุ่มสำหรับเข้าถึง [diplomatic_actions_with_icon|e] ทั่วไปอย่างรวดเร็ว อาทิ การปรับปรุง [opinion_with_icon|e] หรือการสะสม [favors_with_icon|e]\n\n#weak ท่านยังสามารถ #high คลิกขวา#! บนชื่อประเทศหรือธงที่ใดก็ได้ในเกมเพื่อเปิด #high เมนูบริบท#!#!"
+ lesson_diplomacy_19: "[diplomatic_action_icon] คำสั่งทางการทูต"
+ lesson_diplomacy_19b: "[diplomatic_action_icon] คำสั่งทางการทูต"
+ lesson_diplomacy_19_desc: "นอกเหนือจาก [diplomatic_actions_with_icon|e] ทั่วไปที่เข้าถึงได้ผ่านบัตร [diplomacy_with_icon|e] ท่านยังสามารถ #high คลิก#! ที่ชื่อของ [country_with_icon|e] เพื่อไปยัง #high แถบคำสั่ง#! ของ [Link('diplomacy', '', '@diplomacy_panel! แผงการทูต')] โดยที่ $game_concept_country$ เฉพาะเจาะจงที่ท่านกำลังดูอยู่ จะถูกเลือกไว้ล่วงหน้าแล้ว\n\n#weak ท่านยังสามารถ #high คลิกขวา#! บนชื่อประเทศหรือธงที่ใดก็ได้ในเกมเพื่อเปิด #high เมนูบริบท#! และเลือกตัวเลือก #high $SELECT_ACTIONS$#!#!"
+ lesson_diplomacy_open_actions: "เปิดคำสั่งทางการทูตโดยการ @leftclick!#high คลิก#! ที่ชื่อในบัตรประเทศ"
+ lesson_diplomacy_20: "[diplomatic_action_icon] คำสั่งทางการทูต"
+ lesson_diplomacy_20b: "[diplomatic_action_icon] คำสั่งทางการทูต"
+ lesson_diplomacy_20_desc: "จาก #high แถบคำสั่งทางการทูต#! พวกเราสามารถดำเนิน [diplomatic_actions_with_icon|e] ที่แตกต่างกันได้มากมาย เนื่องด้วยพวกเรามุ่งมายังที่นี่โดยการเลือก [country_with_icon|e] บนแผนที่ $game_concept_country$ นั้นจึงถูกเลือกไว้เป็นเป้าหมายสำหรับคำสั่งเรียบร้อยแล้ว\n\nมี $game_concept_diplomatic_actions$ หลากหลายที่ท่านสามารถกระทำได้ ซึ่งบางคำสั่งจักใช้ได้เพียงในสถานการณ์เฉพาะ หากท่านประสงค์จักปฏิสัมพันธ์กับ $game_concept_countries$ อื่นอย่างสันติ มีสามสิ่งด้วยกันที่ท่านควรใส่ใจ: [opinion_with_icon|e], [trust_with_icon|e] และ [favors_with_icon|e]\n\nสำหรับตอนนี้ ให้เราลองใช้คำสั่ง [improve_relations_with_icon|e]"
+ lesson_diplomacy_confirm_diplo_action: "@leftclick!คลิกที่ปุ่มปรับปรุงทัศนคติสำหรับประเทศที่เลือก"
+ lesson_diplomacy_21: "[diplomatic_action_icon] คำสั่งทางการทูต"
+ lesson_diplomacy_21_desc: "ทำได้ดีมาก! เมื่อท่านยืนยัน [diplomatic_action_with_icon|e] ของท่านแล้ว [diplomats_with_icon|e] ของท่านจักออกเดินทางไปยัง [country_with_icon|e] ที่ระบุ และเริ่มดำเนินคำสั่งที่ท่านได้เลือกไว้\n\nคำสั่ง [improve_relation_with_icon|e] จักมิส่งผลในทันที ทว่าจักค่อย ๆ เพิ่ม [opinion_with_icon|e] ตลอดช่วงเวลาหลายเดือน และหลายปี เช่นเดียวกับ $game_concept_diplomatic_actions$ อื่น ๆ อีกจำนวนมาก"
+ lesson_admin_28b_desc: "[missions_with_icon|e] คือชุดภารกิจที่จะช่วยนำทางว่า มีสิ่งใดบ้างที่ท่านสามารถกระทำได้ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! เกมนี้ช่างกว้างขวางนัก และมีหลายสิ่งให้ต้องเรียนรู้ แต่นั่นคือส่วนหนึ่งของความสำราญ!\n\nท่านเพิ่งเสร็จสิ้นบทนำ #high รูปแบบการเล่นการเมือง#! @dip! ซึ่งหมายความว่ายามนี้ท่านสามารถเข้าถึง $game_concept_missions$ ที่จะช่วยให้ท่านดำดิ่งลงสู่วิธีการใช้งานแผงควบคุมและกลไกต่าง ๆ ที่เราเพิ่งได้กล่าวถึงไป\n\nเพื่อช่วยให้ท่านก้าวสู่ขั้นถัดไปได้ง่ายขึ้น เราได้เตรียม $game_concept_missions$ บางส่วนไว้เพื่อเป็นการเริ่มต้นให้แก่ท่าน"
+ lesson_diplomacy_has_mission_active: "เริ่มภารกิจการเมือง"
+
+ ############ MILITARY ############
+
+ lesson_military_open_military: "เปิดแผงการทหาร"
+ lesson_military_0: "[war_icon] บทสรุป $PLAYER_PLAYSTYLE_MILITARY$" 
+ lesson_military_0b: "[war_icon] บทสรุป $PLAYER_PLAYSTYLE_MILITARY$"
+ lesson_military_0_desc: "ลำดับถัดไป เราจะไปพิจารณาบทสรุป $PLAYER_PLAYSTYLE_MILITARY$! เริ่มต้นด้วยการตรวจสอบแผงการทหารกันเถิด"
+ lesson_military_1: "@military_panel! การทหาร"
+ lesson_military_1_desc: "ในที่นี้ ท่านจะเห็นภาพรวมของ [armies_with_icon|e] ของท่าน ในกรณีที่เกิด [war_with_icon|e] [armies] สามารถเคลื่อนย้ายไปตามแผนที่ เพื่อเข้าปะทะกับ [armies] ของข้าศึก และเข้า [occupy_with_icon|e] [locations_with_icon|e] ของศัตรู\n\n[armies] ประกอบด้วย [regiments_with_icon|e] สามประเภทที่แตกต่างกัน:\n\n$BULLET$[levies_with_icon|e] ถูกเรียกเกณฑ์จาก [population_with_icon|e] ของท่านผ่านเหล่า [estates_with_icon|e] โดยทั่วไปจะอ่อนแอ แต่มีค่าบำรุงรักษาที่ถูก\n\n$BULLET$[regulars_with_icon|e] คือทหารประจำการมืออาชีพที่ท่านจำต้องจ่ายเบี้ยเลี้ยง และฝึกฝน และจำเป็นต้องใช้ [manpower_with_icon|e]\n\n$BULLET$[mercenaries_with_icon|e] สามารถจ้างวานได้ด้วย [gold_with_icon|e] เพื่อให้มาพลีชีพเพื่อ [country] ของท่าน... ตราบเท่าที่ท่านยังคงจ่ายเบี้ยเลี้ยง\n\nเมื่อเริ่มต้นเกม [countries_with_icon|e] ส่วนใหญ่จะพึ่งพา [levies] จากเหล่าฐานันดรของตนเป็นหลักในการทำ [wars] ทว่าเมื่อเวลาผ่านไปและมีความก้าวหน้า [advances_with_icon|e] เกิดขึ้น จะมีการเปลี่ยนไปใช้ [regiments] แบบมืออาชีพ ซึ่งจำเป็นต้องใช้ [manpower]\n\n[navies_with_icon|e] คือทัพเรือที่เทียบเท่ากับ [armies] และมีรูปแบบการดำเนินงานที่คล้ายคลึงกัน โดยมี [navy_levies_with_icon|e] และ [ships_with_icon|e] แบบมืออาชีพซึ่งจำต้องใช้ [sailors_with_icon|e]"
+ lesson_military_2: "[manpower_icon] กำลังพล"
+ lesson_military_2_desc: "เราควรใช้เวลาครู่หนึ่งเพื่อสนทนาเรื่อง [manpower_with_icon|e] ดังที่ได้กล่าวไปแล้ว [regular_regiments_with_icon|e] จำเป็นต้องใช้ [manpower] ในการเกณฑ์ทหาร รวมถึงการเติมเต็มกำลังพล หากพวกเขาได้รับความสูญเสีย\n\n[manpower] ได้มาจาก [buildings_with_icon|e] ทางการทหาร ที่จ้างงานกลุ่มประชากร @soldiers! [ShowPopTypeName('soldiers')] [pops]\n\n#weak ในช่วงแรก ท่านสามารถสร้าง $game_concept_manpower$ ได้ด้วยการก่อสร้าง [ShowBuildingTypeName('sergeantry')] [building] ผ่านแผงการผลิต ทว่าท่านจะเข้าถึงแหล่งกำลังพลได้มากขึ้น เมื่อท่านค้นพบ [advances_with_icon|e] ใหม่ ๆ#!\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [manpower] ได้ใน [Link('hints', 'selected_hint = hint_manpower', 'คำแนะนำเกี่ยวกับกำลังพล')]"
+
+ lesson_military_war_0: "[casus_belli_icon] เหตุแห่งสงคราม"
+ lesson_military_war_0_desc: "เมื่อเราได้กล่าวถึง [armies_with_icon|e] และ [navies_with_icon|e] ไปแล้ว เราควรสนทนาในภาพรวมเกี่ยวกับ [war_with_icon|e] และ [casus_belli_with_icon|e]\n\n[war] เริ่มต้นขึ้นเมื่อ [country_with_icon|e] ส่งคำประกาศสงครามต่ออีกฝ่ายหนึ่ง สงครามสามารถประกาศได้ ด้วยเหตุผลอันชอบธรรม ซึ่งเรียกว่า [casus_belli_with_icon|e] ซึ่งจะทำให้การเจรจาสันติภาพง่ายขึ้นสำหรับท่าน การเข้าสู่ [war] โดยปราศจาก [casus_belli] นั้นยังคงเป็นไปได้ แต่จะส่งผลกระทบที่รุนแรงกว่าต่อ [stability_with_icon|e] และ [opinion_with_icon|e] ของเพื่อนบ้านท่าน\n\nวิธีที่ดีที่สุดในการได้รับเหตุแห่งสงคราม คือการยื่นขอจาก [parliament_with_icon|e] ของท่านผ่านแผงการปกครอง การสร้าง [spy_networks_with_icon|e] ในต่างแดนจะช่วยให้ท่านสร้างหลักฐาน [casus_belli] ต่อพวกเขาได้ หากท่านมี [cores_with_icon|e] ในดินแดนของพวกเขา หรือหากพวกท่านเป็น [rivals_with_icon|e]\n\n#weak เมื่อประกาศ [war] โปรดจำไว้ว่าเหล่า [allies_with_icon|e] และ [subjects_with_icon|e] ของข้าศึกมักจะเข้าร่วมสงคราม ในฝ่ายของพวกเขาด้วย! #!\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [casus_belli] ได้ใน [Link('hints', 'selected_hint = hint_casus_belli', 'คำแนะนำเกี่ยวกับเหตุแห่งสงคราม')]"
+ lesson_military_war_1: "[war_icon] สงคราม"
+ lesson_military_war_1_desc: "ทุก [war_with_icon|e] ย่อมมีชัยได้ด้วยการสะสม [war_score_with_icon|e] ซึ่งได้รับจากการชนะ [battles_with_icon|e], การพยายาม [occupy_with_icon|e] [locations_with_icon|e] ของข้าศึก และที่สำคัญที่สุดคือการบรรลุ [war_goal|e] ทุก [war_with_icon|e] ล้วนมีเป้าหมาย [war_goal|e] ซึ่งขึ้นอยู่กับ [casus_belli_with_icon|e] ของผู้เข้าตี\n\nในหนึ่ง $game_concept_war$ จะมี [war_leaders_with_icon|e] สองฝ่าย ซึ่งทั้งคู่สามารถมี [war_allies_with_icon|e] ได้มากมาย ท้ายที่สุดแล้ว $game_concept_war$ จะสิ้นสุดลงเมื่อทั้งสองฝ่ายตกลงยินยอมใน [peace_treaty_with_icon|e]\n\nในขณะที่ท่านสามารถ [occupy] ดินแดนข้าศึกในระหว่างดำเนิน $game_concept_war$ ดินแดนเหล่านั้นจะยังมิเปลี่ยนเจ้าของจนกว่า $game_concept_war$ จะสิ้นสุดลง และมี [peace_treaty] มายืนยันการโอนย้าย [ownership|e]\n\nท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [war], [battles] และ [occupation] ได้ในคำแนะนำประกอบที่เกี่ยวข้อง:\n[Link('hints', 'selected_hint = hint_war', '@hint! คำแนะนำเกี่ยวกับสงคราม')]\n[Link('hints', 'selected_hint = hint_battle', '@hint! คำแนะนำเกี่ยวกับยุทธการ')]\n[Link('hints', 'selected_hint = hint_siege_and_occupation', '@hint! คำแนะนำเกี่ยวกับการยึดครอง และการปิดล้อม')]"
+ lesson_military_war_2: "[war_exhaustion_icon] ความเหนื่อยล้าจากสงคราม"
+ lesson_military_war_2_desc: "ในระหว่างที่อยู่ใน [war_with_icon|e] ท่านจะสะสม [war_exhaustion_with_icon|e] หากค่านี้สูงเพียงพอ [armies_with_icon|e] และ [levies_with_icon|e] ของท่านจะมีประสิทธิภาพลดลงใน [battle_with_icon|e] และ [population_with_icon|e] ของท่านจะเริ่มลดจำนวนลง\n\nวิธีที่ดีที่สุดในการลด $game_concept_war_exhaustion$ คือการอยู่ในภาวะ [peace_with_icon|e] อย่างไรก็ตาม ยังมี [laws_with_icon|e] และ [estate_privileges_with_icon|e] บางประการที่จะช่วยลด $game_concept_war_exhaustion$ เมื่อเวลาผ่านไป\n\n@hint! ท่านสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ [war_exhaustion] ได้ใน [Link('hints', 'selected_hint = hint_war_exhaustion', 'คำแนะนำเกี่ยวกับความเหนื่อยล้าจากสงคราม')]"
+ lesson_military_war_3: "[war_icon] การควบคุมดินแดนใหม่"
+ lesson_military_war_3_desc: "ดินแดนใหม่ที่ท่านพิชิตได้จะมิมอบประโยชน์ให้แก่ท่านในทันที โปรดจำไว้ว่าท่านจำเป็นต้องมี [control_with_icon|e] เพื่อให้ [locations_with_icon|e] ของท่านใช้งานได้ และนั่นอาจต้องอาศัยการลงทุนมหาศาลในโครงสร้างพื้นฐาน เพื่อแผ่ขยายระยะของ [proximity_with_icon|e]\n\nนอกจากนี้ ดินแดนที่ถูก [conquered_with_icon|e] จะได้รับบทลงโทษอย่างหนัก จนกว่าท่านจะทำการ [integrate_with_icon|e] ดินแดนนั้นด้วย [cabinet_action_with_icon|e] ด้วยเหตุผลเหล่านี้ การสร้าง [subject_with_icon|e] ในดินแดนที่พิชิตได้ใหม่ เพื่อปกครองดินแดนในนามของท่านจึงเป็นเรื่องที่ชาญฉลาด\n\n#italic หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ [integration] ท่านสามารถตรวจสอบคำแนะนำประกอบ [Link('hints', 'selected_hint = hint_has_conquered_provinces', '@hint! $hint_has_conquered_provinces$')] ได้"
+ lesson_military_open_geopolitics: "เปิดแผงภูมิรัฐศาสตร์"
+ lesson_military_8: "@geopolitics_panel! ภูมิรัฐศาสตร์"
+ lesson_military_8_desc: "สุดท้ายนี้ เราควรพิจารณา @geopolitics_panel! #high แผงภูมิรัฐศาสตร์#! เพื่อกล่าวถึงอีกหนึ่งกลไกที่อาจมีความสำคัญใน [ages|e] ภายหน้า: [exploration_with_icon|e] และ [colonization_with_icon|e]!"
+ lesson_military_9: "@geopolitics_panel! ภูมิรัฐศาสตร์"
+ lesson_military_9_desc: "ในท้ายที่สุด และโดยเฉพาะในช่วง [ShowAgeName('age_3_discovery')] หลาย [countries_with_icon|e] จะเริ่มความพยายามในการ [exploration_with_icon|e] จากแผงนี้ ท่านจะเห็นภาพรวมของโอกาสใน $game_concept_exploration$ รวมถึงดินแดนที่เหมาะสมต่อการ [colonization_with_icon|e] หากท่านมีหนทางเข้าถึงดินแดนนั้น ท่านจะได้รับ [colonial_range_with_icon|e] หากวิจัย [advances_with_icon|e] ที่เหมาะสม\n\nแถบอื่น ๆ ของแผงนี้ยังประกอบด้วยข้อมูลที่เป็นประโยชน์ เกี่ยวกับดินแดนที่ท่านปกครอง: ท่านสามารถดู [provinces_with_icon|e] ต่าง ๆ ภายใน [country_with_icon|e] ของท่าน รวมถึง [diseases_with_icon|e] ที่ปรากฏอยู่ในโลก หากท่าน [own|e] ทำเล [coastal] [location_with_icon|e] ท่านจะเห็นรายชื่อของ [seazones_with_icon|e] ที่เกี่ยวข้องกับท่าน [maritime_presence_with_icon|e] ที่ท่านมีในเขตนั้น และอันตรายจากเหล่า [pirates_with_icon|e] และ [privateers_with_icon|e]"
+ lesson_admin_28c_desc: "[missions_with_icon|e] คือชุดภารกิจที่จะช่วยนำทางว่ามีสิ่งใดบ้าง ที่ท่านสามารถกระทำได้ใน #high ยูโรปา ยูนิเวอร์ซาลิส 5#! เกมนี้ช่างกว้างขวางนัก และมีหลายสิ่งให้ต้องเรียนรู้ แต่นั่นคือส่วนหนึ่งของความสำราญ!\n\nท่านเพิ่งเสร็จสิ้นบทนำ #high รูปแบบการเล่นขยายอำนาจ#! @mil! ซึ่งหมายความว่ายามนี้ท่านสามารถเข้าถึง $game_concept_missions$ ที่จะช่วยให้ท่านดำดิ่งลงสู่วิธีการใช้งานแผงควบคุม และกลไกต่าง ๆ ที่เราเพิ่งได้กล่าวถึงไป\n\nเพื่อช่วยให้ท่านก้าวสู่ขั้นถัดไปได้ง่ายขึ้น เราได้เตรียม $game_concept_missions$ บางส่วนไว้เพื่อเป็นการเริ่มต้นให้แก่ท่าน"
+ lesson_military_has_mission_active: "เริ่มภารกิจ $PLAYER_PLAYSTYLE_MILITARY$"

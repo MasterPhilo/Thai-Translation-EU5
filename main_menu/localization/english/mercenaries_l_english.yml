@@ -1,0 +1,11 @@
+﻿l_english:
+ generic_mercenary_name: "กองร้อยแห่ง [AREA.GetName]"
+ burgher_cogs_name: "กองเรือข้ามฟากแห่ง [AREA.GetName]"
+ rogue_free_company_1: "กองทหารรูติเยร์เถื่อน"
+ rogue_free_company_2: "กองทหารรูติเยร์เถื่อน"
+ french_levy_retinue: "กองเกณฑ์ติดตามแห่งฝรั่งเศส"
+ french_elite_retinue: "กองทหารราบติดตามแห่งฝรั่งเศส"
+ flo_white_company: "กองร้อยสีขาว"
+ pol_lisowczycy: "ลิซอฟซิก"
+ mor_ottoman_mercenaries: "กองพลน้อยที่ 9 แห่งออตโตมัน"
+ chi_sailor_company: "กองร้อยกะลาสี $chinese_group$"

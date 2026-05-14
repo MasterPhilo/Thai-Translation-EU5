@@ -1,0 +1,44 @@
+﻿l_english:
+ #
+ # Types
+ #
+ MODIFIER_NONE: "ไม่มี"
+ MODIFIER_ABSTAIN: "การงดออกเสียง"
+ #
+ # Generic
+ #
+ less_left_than_right: "$LEFT|Y$ น้อยกว่า $RIGHT|Y$"
+ no_more_left_than_right: "$LEFT|Y$ ไม่มากกว่า $RIGHT|Y$"
+ more_left_than_right: "$LEFT|Y$ มากกว่า $RIGHT|Y$"
+ no_less_left_than_right: "$LEFT|Y$ ไม่น้อยกว่า $RIGHT|Y$"
+ potential_modifier_desc: "หากเรามี $REQUIREMENTS$ เราจักได้รับ:\n$MODIFIER|Y$:\n$EFFECTS$"
+ potential_modifier_scale: "(ปรับเปลี่ยนตาม $FACTORS$)"
+ #
+ crown_estate_satisfaction: "[estate_satisfaction|e] ของส่วนกลาง"
+ nobles_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('nobles_estate')]"
+ clergy_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('clergy_estate')]"
+ burghers_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('burghers_estate')]"
+ peasants_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('peasants_estate')]"
+ dhimmi_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('dhimmi_estate')]"
+ tribes_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('tribes_estate')]"
+ cossacks_estate_satisfaction: "[estate_satisfaction|e] ของ [ShowEstateTypeName('cossacks_estate')]"
+ 
+ crown_estate_power: "[crown_power|e]"
+ nobles_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('nobles_estate')]"
+ clergy_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('clergy_estate')]"
+ burghers_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('burghers_estate')]"
+ peasants_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('peasants_estate')]"
+ dhimmi_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('dhimmi_estate')]"
+ tribes_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('tribes_estate')]"
+ cossacks_estate_power: "[estate_power|e] ของ [ShowEstateTypeName('cossacks_estate')]"
+ 
+ BOOLEAN_MODIFIER_SOURCES: "สิ่งนี้สามารถกำหนดได้ ในสถานที่ดังต่อไปนี้:"
+ SUBJECT_TYPE_OVERLORD: "[subject_types|e] (เจ้าเหนือหัว)" 
+ SUBJECT_TYPE_SUBJECT: "[subject_types|e] (บริวารใต้อาณัติ)"
+ IO_SPECIAL_STATUS: "[international_organizations|e] - สถานะพิเศษ"
+ IO_LEADERS: "[international_organizations|e] - ประมุข"
+ IO_TARGETS: "[international_organizations|e] - เป้าหมาย"
+ IO_MEMBERS: "[international_organizations|e] - รัฐสมาชิก"
+ IO_POLICIES: "[international_organizations|e] - นโยบาย"
+ IO_NON_LEADERS: "[international_organizations|e] - มิใช่ประมุข"
+ MODIFIER_NODE_NAME_GOVERNMENT: "รัฐบาล $ADJ$"
